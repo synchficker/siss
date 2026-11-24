@@ -1,0 +1,206 @@
+[
+ {
+  "id": "ev-openhouse",
+  "title": {
+   "en": "Open House & Campus Tours",
+   "id": "Open House & Tur Kampus"
+  },
+  "excerpt": {
+   "en": "Walk both campuses, meet teachers, and see learning in action.",
+   "id": "Jelajahi kedua kampus, temui guru, lihat pembelajaran langsung."
+  },
+  "category": {
+   "en": "Admissions",
+   "id": "Penerimaan"
+  },
+  "date": "2026-12-05",
+  "time": "09:00–12:00",
+  "location": {
+   "en": "Pattimura & Horizon campuses",
+   "id": "Kampus Pattimura & Horizon"
+  },
+  "audience": {
+   "en": "Prospective families",
+   "id": "Calon keluarga"
+  },
+  "image": "assets/images/community/events.svg",
+  "body": {
+   "en": [
+    "Join us for a morning of tours, classroom visits, and conversations with division leaders. No registration fee; bring your questions."
+   ],
+   "id": [
+    "Ikuti pagi penuh tur, kunjungan kelas, dan percakapan dengan pemimpin divisi. Gratis; bawa pertanyaan Anda."
+   ]
+  }
+ },
+ {
+  "id": "ev-winter",
+  "title": {
+   "en": "Winter Arts Showcase",
+   "id": "Pertunjukan Seni Musim Dingin"
+  },
+  "excerpt": {
+   "en": "Music, theatre, and visual art from every division.",
+   "id": "Musik, teater, dan seni rupa dari setiap divisi."
+  },
+  "category": {
+   "en": "Arts",
+   "id": "Seni"
+  },
+  "date": "2026-12-12",
+  "time": "17:00–20:00",
+  "location": {
+   "en": "Horizon Auditorium",
+   "id": "Auditorium Horizon"
+  },
+  "audience": {
+   "en": "All community",
+   "id": "Seluruh komunitas"
+  },
+  "image": "assets/images/activities/arts.svg",
+  "body": {
+   "en": [
+    "An evening of gamelan, choir, black-box theatre, and a gallery walk of student work."
+   ],
+   "id": [
+    "Malam gamelan, paduan suara, teater black-box, dan galeri karya siswa."
+   ]
+  }
+ },
+ {
+  "id": "ev-servicefair",
+  "title": {
+   "en": "Peduli Service Fair",
+   "id": "Pameran Servis Peduli"
+  },
+  "excerpt": {
+   "en": "Meet our partners and fund student-led projects.",
+   "id": "Temui mitra kami dan danai proyek pimpinan siswa."
+  },
+  "category": {
+   "en": "Service",
+   "id": "Servis"
+  },
+  "date": "2027-01-16",
+  "time": "10:00–14:00",
+  "location": {
+   "en": "Horizon Commons",
+   "id": "Horizon Commons"
+  },
+  "audience": {
+   "en": "All community",
+   "id": "Seluruh komunitas"
+  },
+  "image": "assets/images/academics/service.svg",
+  "body": {
+   "en": [
+    "Student teams pitch their service projects; community members vote with micro-grants."
+   ],
+   "id": [
+    "Tim siswa mempresentasikan proyek servis; komunitas memberikan hibah mikro."
+   ]
+  }
+ },
+ {
+  "id": "ev-uni",
+  "title": {
+   "en": "University Representatives Week",
+   "id": "Pekan Perwakilan Universitas"
+  },
+  "excerpt": {
+   "en": "Admissions officers from 30+ universities visit campus.",
+   "id": "Petugas penerimaan dari 30+ universitas mengunjungi kampus."
+  },
+  "category": {
+   "en": "Academics",
+   "id": "Akademik"
+  },
+  "date": "2027-01-19",
+  "time": "08:30–15:00",
+  "location": {
+   "en": "Horizon Library",
+   "id": "Perpustakaan Horizon"
+  },
+  "audience": {
+   "en": "HS students & families",
+   "id": "Siswa SMA & keluarga"
+  },
+  "image": "assets/images/academics/high-school.svg",
+  "body": {
+   "en": [
+    "Book slots through the counseling office. Open to Grades 10–12 and parents."
+   ],
+   "id": [
+    "Pesan slot melalui kantor konseling. Terbuka untuk Kelas 10–12 dan orang tua."
+   ]
+  }
+ },
+ {
+  "id": "ev-anniv",
+  "title": {
+   "en": "75th Anniversary Gala",
+   "id": "Gala HUT ke-75"
+  },
+  "excerpt": {
+   "en": "Celebrating 75 years with alumni, families, and friends.",
+   "id": "Merayakan 75 tahun bersama alumni, keluarga, dan sahabat."
+  },
+  "category": {
+   "en": "Community",
+   "id": "Komunitas"
+  },
+  "date": "2026-10-10",
+  "time": "18:30–22:00",
+  "location": {
+   "en": "Horizon Auditorium",
+   "id": "Auditorium Horizon"
+  },
+  "audience": {
+   "en": "Alumni & community",
+   "id": "Alumni & komunitas"
+  },
+  "image": "assets/images/about/anniversary.svg",
+  "body": {
+   "en": [
+    "A night of stories, performances, and the launch of the anniversary campaign highlights."
+   ],
+   "id": [
+    "Malam cerita, pertunjukan, dan sorotan kampanye HUT."
+   ]
+  }
+ },
+ {
+  "id": "ev-sports",
+  "title": {
+   "en": "IASAS Sports Festival",
+   "id": "Festival Olahraga IASAS"
+  },
+  "excerpt": {
+   "en": "Cakrawala hosts regional teams for a season of competition.",
+   "id": "Cakrawala menjadi tuan rumah tim regional."
+  },
+  "category": {
+   "en": "Athletics",
+   "id": "Olahraga"
+  },
+  "date": "2026-11-06",
+  "time": "08:00–17:00",
+  "location": {
+   "en": "Horizon athletics facilities",
+   "id": "Fasilitas olahraga Horizon"
+  },
+  "audience": {
+   "en": "All community",
+   "id": "Seluruh komunitas"
+  },
+  "image": "assets/images/activities/athletics.svg",
+  "body": {
+   "en": [
+    "Come cheer our teams across soccer, basketball, and volleyball."
+   ],
+   "id": [
+    "Dukung tim kami di sepak bola, basket, dan voli."
+   ]
+  }
+ }
+]

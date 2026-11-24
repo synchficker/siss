@@ -1,0 +1,80 @@
+[
+ {
+  "id": "lead-1",
+  "name": "Dr. Lena Kusuma",
+  "role": {
+   "en": "Head of School",
+   "id": "Kepala Sekolah"
+  },
+  "bio": {
+   "en": "An educator of 25 years, Lena leads with curiosity and care.",
+   "id": "Pendidik 25 tahun, Lena memimpin dengan rasa ingin tahu dan kepedulian."
+  },
+  "image": "assets/images/about/person-1.svg"
+ },
+ {
+  "id": "lead-2",
+  "name": "Marcus Tan",
+  "role": {
+   "en": "Director of Learning",
+   "id": "Direktur Pembelajaran"
+  },
+  "bio": {
+   "en": "Marcus oversees the EY–12 pathway and teacher growth.",
+   "id": "Marcus mengawasi jalur EY–12 dan pengembangan guru."
+  },
+  "image": "assets/images/about/person-2.svg"
+ },
+ {
+  "id": "lead-3",
+  "name": "Dr. Dewi Anwar",
+  "role": {
+   "en": "Head of High School",
+   "id": "Kepala SMA"
+  },
+  "bio": {
+   "en": "Dewi leads IB and AP with a focus on student agency.",
+   "id": "Dewi memimpin IB dan AP dengan fokus pada kemandirian siswa."
+  },
+  "image": "assets/images/about/person-3.svg"
+ },
+ {
+  "id": "lead-4",
+  "name": "Nadia Rahman",
+  "role": {
+   "en": "Director of Community",
+   "id": "Direktur Komunitas"
+  },
+  "bio": {
+   "en": "Nadia connects families, alumni, and partners.",
+   "id": "Nadia menghubungkan keluarga, alumni, dan mitra."
+  },
+  "image": "assets/images/about/person-4.svg"
+ },
+ {
+  "id": "lead-5",
+  "name": "Dr. Amelia Hartono",
+  "role": {
+   "en": "Elementary Principal",
+   "id": "Kepala SD"
+  },
+  "bio": {
+   "en": "Amelia champions strong, joyful foundations.",
+   "id": "Amelia memperjuangkan fondasi yang kuat dan menyenangkan."
+  },
+  "image": "assets/images/blog/author-1.svg"
+ },
+ {
+  "id": "lead-6",
+  "name": "Raka Wijaya",
+  "role": {
+   "en": "Studio & Activities Director",
+   "id": "Direktur Studio & Kegiatan"
+  },
+  "bio": {
+   "en": "Raka builds real-world learning beyond the classroom.",
+   "id": "Raka membangun pembelajaran dunia nyata di luar kelas."
+  },
+  "image": "assets/images/blog/author-2.svg"
+ }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "id": "post-stem",
+  "slug": "stem-foundations-early-years",
+  "title": {
+   "en": "Building Strong Foundations Through STEM",
+   "id": "Membangun Fondasi Kuat Melalui STEM"
+  },
+  "excerpt": {
+   "en": "Why curiosity, problem-solving, and critical thinking begin in the early years.",
+   "id": "Mengapa rasa ingin tahu dan berpikir kritis dimulai sejak dini."
+  },
+  "category": "Learning",
+  "tags": [
+   "STEM",
+   "Early Years"
+  ],
+  "author": "Dr. Amelia Hartono",
+  "authorRole": {
+   "en": "Elementary Principal",
+   "id": "Kepala SD"
+  },
+  "authorImage": "assets/images/blog/author-1.svg",
+  "date": "2026-11-18",
+  "status": "published",
+  "image": "assets/images/blog/blog-1.svg",
+  "related": [
+   "studio-showcase-2026"
+  ],
+  "body": "<p>STEM is not a subject reserved for older students. In the early years it is a way of wondering: <em>What happens if…?</em> and <em>How could we…?</em></p><h2>Start with questions</h2><p>When children test ideas with blocks, water, and ramps, they are doing engineering. Our teachers protect that curiosity and give it vocabulary.</p><blockquote>Curiosity is the curriculum.</blockquote><h2>What families can do</h2><ul><li>Wonder aloud together.</li><li>Let children retry without fixing it for them.</li><li>Celebrate the question, not just the answer.</li></ul>"
+ },
+ {
+  "id": "post-studio",
+  "slug": "studio-showcase-2026",
+  "title": {
+   "en": "Studio Showcase: Learning That Ships",
+   "id": "Pameran Studio: Pembelajaran yang Nyata"
+  },
+  "excerpt": {
+   "en": "Middle School teams presented semester-long projects to real community audiences.",
+   "id": "Tim SMP mempresentasikan proyek semester kepada audiens komunitas nyata."
+  },
+  "category": "Learning",
+  "tags": [
+   "Studio"
+  ],
+  "author": "Raka Wijaya",
+  "authorRole": {
+   "en": "Studio Coordinator",
+   "id": "Koordinator Studio"
+  },
+  "authorImage": "assets/images/blog/author-2.svg",
+  "date": "2026-11-04",
+  "status": "published",
+  "image": "assets/images/blog/blog-2.svg",
+  "related": [
+   "stem-foundations-early-years"
+  ],
+  "body": "<p>This semester, Studio teams shipped work to real audiences: a water audit for a local NGO, a redesigned school garden, and an oral-history archive with alumni.</p><h2>Why it matters</h2><p>When the audience is real, feedback is real — and so is the learning. Students iterated, reflected, and transferred skills back to their classes.</p>"
+ },
+ {
+  "id": "post-service",
+  "slug": "service-in-action-literacy",
+  "title": {
+   "en": "Service in Action: A Literacy Partnership",
+   "id": "Servis Nyata: Kemitraan Literasi"
+  },
+  "excerpt": {
+   "en": "How a decade-long partnership with Yayasan Baca keeps growing — in both directions.",
+   "id": "Bagaimana kemitraan satu dekade dengan Yayasan Baca terus tumbuh — dua arah."
+  },
+  "category": "Service",
+  "tags": [
+   "Service"
+  ],
+  "author": "Sari Dewi",
+  "authorRole": {
+   "en": "Service Learning Lead",
+   "id": "Kepala Pembelajaran Servis"
+  },
+  "authorImage": "assets/images/blog/author-3.svg",
+  "date": "2026-10-21",
+  "status": "published",
+  "image": "assets/images/blog/blog-3.svg",
+  "related": [],
+  "body": "<p>Since 2012, our students have read alongside children at Yayasan Baca. What began as a weekly visit is now a shared program the partners design together.</p><h2>Reciprocal by design</h2><p>Service learning works when both communities teach and both learn. Our students gain empathy and agency; our partners gain resources and voice.</p>"
+ },
+ {
+  "id": "post-alumni",
+  "slug": "alumni-conservation-reef",
+  "title": {
+   "en": "Alumni Story: Conservation in the Coral Triangle",
+   "id": "Kisah Alumni: Konservasi di Segitiga Terumbu Karang"
+  },
+  "excerpt": {
+   "en": "A graduate returns to Jakarta to talk about reef restoration and starting young.",
+   "id": "Seorang alumni kembali ke Jakarta untuk berbicara tentang restorasi terumbu karang."
+  },
+  "category": "Alumni",
+  "tags": [
+   "Alumni",
+   "Service"
+  ],
+  "author": "Communications Team",
+  "authorRole": {
+   "en": "Cakrawala Communications",
+   "id": "Komunikasi Cakrawala"
+  },
+  "authorImage": "assets/images/blog/author-1.svg",
+  "date": "2026-09-30",
+  "status": "published",
+  "image": "assets/images/blog/blog-4.svg",
+  "related": [
+   "service-in-action-literacy"
+  ],
+  "body": "<p>When our alumnus Rafael returned to campus, he told students that conservation began with a school club and a stubborn question.</p><h2>Start where you are</h2><p>His message: you do not need to wait until you are older to do work that matters. Begin with what you can see, and build from there.</p>"
+ }
+]

@@ -1,0 +1,937 @@
+{
+ "utility": [
+  {
+   "label": {
+    "en": "MyCakrawala Portal",
+    "id": "Portal MyCakrawala"
+   },
+   "url": "https://portal.example.com/",
+   "external": true
+  },
+  {
+   "label": {
+    "en": "Campus Info",
+    "id": "Info Kampus"
+   },
+   "url": "about/campuses/"
+  },
+  {
+   "action": "lang"
+  },
+  {
+   "action": "search"
+  }
+ ],
+ "main": [
+  {
+   "label": {
+    "en": "About",
+    "id": "Tentang"
+   },
+   "url": "about/",
+   "blurb": {
+    "en": "75 years of learning in Jakarta, guided by care and curiosity.",
+    "id": "75 tahun belajar di Jakarta, dipandu kepedulian dan rasa ingin tahu."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "Our School",
+      "id": "Sekolah Kami"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Mission & Vision",
+        "id": "Misi & Visi"
+       },
+       "url": "about/mission-vision/"
+      },
+      {
+       "label": {
+        "en": "Leadership",
+        "id": "Kepemimpinan"
+       },
+       "url": "about/leadership/"
+      },
+      {
+       "label": {
+        "en": "Belonging",
+        "id": "Kebersamaan"
+       },
+       "url": "about/belonging/"
+      },
+      {
+       "label": {
+        "en": "Child Safeguarding",
+        "id": "Perlindungan Anak"
+       },
+       "url": "about/child-safeguarding/"
+      },
+      {
+       "label": {
+        "en": "75th Anniversary",
+        "id": "HUT ke-75"
+       },
+       "url": "about/anniversary/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Campuses",
+      "id": "Kampus"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "All Campuses",
+        "id": "Semua Kampus"
+       },
+       "url": "about/campuses/"
+      },
+      {
+       "label": {
+        "en": "Pattimura Campus",
+        "id": "Kampus Pattimura"
+       },
+       "url": "about/campuses/pattimura/"
+      },
+      {
+       "label": {
+        "en": "Horizon Campus",
+        "id": "Kampus Horizon"
+       },
+       "url": "about/campuses/horizon/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "News & Media",
+      "id": "Berita & Media"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "News & Media",
+        "id": "Berita & Media"
+       },
+       "url": "about/news-media/"
+      },
+      {
+       "label": {
+        "en": "Blog",
+        "id": "Blog"
+       },
+       "url": "news/blog/"
+      },
+      {
+       "label": {
+        "en": "Podcast",
+        "id": "Podcast"
+       },
+       "url": "about/news-media/podcast/"
+      },
+      {
+       "label": {
+        "en": "In the News",
+        "id": "Di Media"
+       },
+       "url": "about/news-media/in-the-news/"
+      },
+      {
+       "label": {
+        "en": "Social Media",
+        "id": "Media Sosial"
+       },
+       "url": "about/news-media/social-media/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Join Us",
+      "id": "Bergabung"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Work at Cakrawala",
+        "id": "Karier di Cakrawala"
+       },
+       "url": "about/work-at-school/"
+      },
+      {
+       "label": {
+        "en": "Why Cakrawala",
+        "id": "Mengapa Cakrawala"
+       },
+       "url": "why-school/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": {
+    "en": "Admissions",
+    "id": "Penerimaan"
+   },
+   "url": "admissions/",
+   "blurb": {
+    "en": "Three simple steps: inquire, visit, apply.",
+    "id": "Tiga langkah mudah: tanya, kunjungi, daftar."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "Start Here",
+      "id": "Mulai di Sini"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Inquire",
+        "id": "Tanya"
+       },
+       "url": "admissions/inquire/"
+      },
+      {
+       "label": {
+        "en": "Visit",
+        "id": "Kunjungan"
+       },
+       "url": "admissions/visit/"
+      },
+      {
+       "label": {
+        "en": "Apply",
+        "id": "Daftar"
+       },
+       "url": "admissions/apply/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Details",
+      "id": "Detail"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Guidelines",
+        "id": "Panduan"
+       },
+       "url": "admissions/guidelines/"
+      },
+      {
+       "label": {
+        "en": "Fees",
+        "id": "Biaya"
+       },
+       "url": "admissions/fees/"
+      },
+      {
+       "label": {
+        "en": "Calendar",
+        "id": "Kalender"
+       },
+       "url": "admissions/calendar/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Help",
+      "id": "Bantuan"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "FAQ",
+        "id": "FAQ"
+       },
+       "url": "admissions/faq/"
+      },
+      {
+       "label": {
+        "en": "Terms",
+        "id": "Ketentuan"
+       },
+       "url": "admissions/terms/"
+      },
+      {
+       "label": {
+        "en": "Contact",
+        "id": "Kontak"
+       },
+       "url": "contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": {
+    "en": "Academics",
+    "id": "Akademik"
+   },
+   "url": "academics/",
+   "blurb": {
+    "en": "A continuous Early Years–Grade 12 pathway with IB and AP choice.",
+    "id": "Jalur berkelanjutan Early Years–Kelas 12 dengan pilihan IB dan AP."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "Divisions",
+      "id": "Divisi"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Early Years",
+        "id": "Early Years"
+       },
+       "url": "academics/early-years/"
+      },
+      {
+       "label": {
+        "en": "Elementary",
+        "id": "SD"
+       },
+       "url": "academics/elementary/"
+      },
+      {
+       "label": {
+        "en": "Middle School",
+        "id": "SMP"
+       },
+       "url": "academics/middle-school/"
+      },
+      {
+       "label": {
+        "en": "High School",
+        "id": "SMA"
+       },
+       "url": "academics/high-school/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Pathways",
+      "id": "Jalur"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "IB & AP",
+        "id": "IB & AP"
+       },
+       "url": "academics/ib-ap/"
+      },
+      {
+       "label": {
+        "en": "IB Diploma",
+        "id": "Diploma IB"
+       },
+       "url": "academics/ib-ap/ib-diploma/"
+      },
+      {
+       "label": {
+        "en": "Advanced Placement",
+        "id": "Advanced Placement"
+       },
+       "url": "academics/ib-ap/advanced-placement/"
+      },
+      {
+       "label": {
+        "en": "Global Online Academy",
+        "id": "Global Online Academy"
+       },
+       "url": "academics/global-online-academy/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Signature",
+      "id": "Unggulan"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Cakrawala Studio",
+        "id": "Cakrawala Studio"
+       },
+       "url": "academics/jis-studio/"
+      },
+      {
+       "label": {
+        "en": "Service Learning",
+        "id": "Pembelajaran Servis"
+       },
+       "url": "academics/service-learning/"
+      },
+      {
+       "label": {
+        "en": "University Acceptances",
+        "id": "Penerimaan Universitas"
+       },
+       "url": "university-acceptances/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Support",
+      "id": "Dukungan"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Student Support",
+        "id": "Dukungan Siswa"
+       },
+       "url": "academics/student-support/"
+      },
+      {
+       "label": {
+        "en": "Learning Center",
+        "id": "Pusat Belajar"
+       },
+       "url": "academics/learning-center/"
+      },
+      {
+       "label": {
+        "en": "HS Counseling",
+        "id": "Konseling SMA"
+       },
+       "url": "academics/high-school/counseling/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": {
+    "en": "Arts, Athletics & Activities",
+    "id": "Seni, Olahraga & Kegiatan"
+   },
+   "url": "arts/",
+   "blurb": {
+    "en": "Every learner finds a stage, a team, and a passion.",
+    "id": "Setiap siswa menemukan panggung, tim, dan minat."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "Explore",
+      "id": "Jelajahi"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Arts",
+        "id": "Seni"
+       },
+       "url": "arts/"
+      },
+      {
+       "label": {
+        "en": "Athletics",
+        "id": "Olahraga"
+       },
+       "url": "athletics/"
+      },
+      {
+       "label": {
+        "en": "Activities",
+        "id": "Kegiatan"
+       },
+       "url": "activities/"
+      },
+      {
+       "label": {
+        "en": "IASAS",
+        "id": "IASAS"
+       },
+       "url": "iasas/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Cakrawala Academy",
+      "id": "Cakrawala Academy"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Academy Home",
+        "id": "Beranda Academy"
+       },
+       "url": "jis-academy/"
+      },
+      {
+       "label": {
+        "en": "Activities",
+        "id": "Kegiatan"
+       },
+       "url": "jis-academy/activities/"
+      },
+      {
+       "label": {
+        "en": "Sports",
+        "id": "Olahraga"
+       },
+       "url": "jis-academy/sports/"
+      },
+      {
+       "label": {
+        "en": "Holiday Programs",
+        "id": "Program Liburan"
+       },
+       "url": "jis-academy/holiday-programs/"
+      },
+      {
+       "label": {
+        "en": "Adult Activities",
+        "id": "Kegiatan Dewasa"
+       },
+       "url": "jis-academy/adult-activities/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Facilities",
+      "id": "Fasilitas"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Tennis Courts",
+        "id": "Lapangan Tenis"
+       },
+       "url": "athletics/tennis-courts/"
+      },
+      {
+       "label": {
+        "en": "Facilities Hire",
+        "id": "Sewa Fasilitas"
+       },
+       "url": "community/facilities-hire/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": {
+    "en": "Community",
+    "id": "Komunitas"
+   },
+   "url": "community/",
+   "blurb": {
+    "en": "Parents, alumni, and partners — one community.",
+    "id": "Orang tua, alumni, dan mitra — satu komunitas."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "People",
+      "id": "Orang"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Alumni",
+        "id": "Alumni"
+       },
+       "url": "community/alumni/"
+      },
+      {
+       "label": {
+        "en": "Dragon News",
+        "id": "Kabar Alumni"
+       },
+       "url": "community/alumni/dragon-news/"
+      },
+      {
+       "label": {
+        "en": "Parent Organizations",
+        "id": "Organisasi Orang Tua"
+       },
+       "url": "community/parent-organizations/"
+      },
+      {
+       "label": {
+        "en": "Moving to Jakarta",
+        "id": "Pindah ke Jakarta"
+       },
+       "url": "community/moving-to-city/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Care & Service",
+      "id": "Peduli & Servis"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Peduli",
+        "id": "Peduli"
+       },
+       "url": "community/peduli/"
+      },
+      {
+       "label": {
+        "en": "Service Partners",
+        "id": "Mitra Servis"
+       },
+       "url": "community/service-partners/"
+      },
+      {
+       "label": {
+        "en": "Scholarships",
+        "id": "Beasiswa"
+       },
+       "url": "community/scholarships/"
+      },
+      {
+       "label": {
+        "en": "Health",
+        "id": "Kesehatan"
+       },
+       "url": "community/health/"
+      },
+      {
+       "label": {
+        "en": "Transportation",
+        "id": "Transportasi"
+       },
+       "url": "community/transportation/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Connect",
+      "id": "Terhubung"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Events",
+        "id": "Acara"
+       },
+       "url": "community/events/"
+      },
+      {
+       "label": {
+        "en": "Innovative Schools",
+        "id": "Sekolah Inovatif"
+       },
+       "url": "community/innovative-schools/"
+      },
+      {
+       "label": {
+        "en": "University Reps",
+        "id": "Perwakilan Universitas"
+       },
+       "url": "academics/university-representatives/"
+      },
+      {
+       "label": {
+        "en": "Facilities Hire",
+        "id": "Sewa Fasilitas"
+       },
+       "url": "community/facilities-hire/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": {
+    "en": "Giving",
+    "id": "Donasi"
+   },
+   "url": "giving/",
+   "blurb": {
+    "en": "Invest in learners and the world they will shape.",
+    "id": "Berinvestasi pada siswa dan dunia yang akan mereka bentuk."
+   },
+   "columns": [
+    {
+     "heading": {
+      "en": "Campaigns",
+      "id": "Kampanye"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "75th Anniversary Campaign",
+        "id": "Kampanye HUT ke-75"
+       },
+       "url": "giving/anniversary-campaign/"
+      },
+      {
+       "label": {
+        "en": "Annual Fund",
+        "id": "Dana Tahunan"
+       },
+       "url": "giving/annual-fund/"
+      },
+      {
+       "label": {
+        "en": "Scholarship Fund",
+        "id": "Dana Beasiswa"
+       },
+       "url": "giving/scholarship-fund/"
+      }
+     ]
+    },
+    {
+     "heading": {
+      "en": "Impact",
+      "id": "Dampak"
+     },
+     "links": [
+      {
+       "label": {
+        "en": "Our Impact",
+        "id": "Dampak Kami"
+       },
+       "url": "giving/impact/"
+      },
+      {
+       "label": {
+        "en": "People of Cakrawala",
+        "id": "Orang-orang Cakrawala"
+       },
+       "url": "giving/people-of-campus/"
+      },
+      {
+       "label": {
+        "en": "Donate",
+        "id": "Donasi"
+       },
+       "url": "giving/donate/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footer": [
+  {
+   "heading": {
+    "en": "About",
+    "id": "Tentang"
+   },
+   "links": [
+    {
+     "label": {
+      "en": "Mission & Vision",
+      "id": "Misi & Visi"
+     },
+     "url": "about/mission-vision/"
+    },
+    {
+     "label": {
+      "en": "Leadership",
+      "id": "Kepemimpinan"
+     },
+     "url": "about/leadership/"
+    },
+    {
+     "label": {
+      "en": "Campuses",
+      "id": "Kampus"
+     },
+     "url": "about/campuses/"
+    },
+    {
+     "label": {
+      "en": "Careers",
+      "id": "Karier"
+     },
+     "url": "about/work-at-school/"
+    },
+    {
+     "label": {
+      "en": "Safeguarding",
+      "id": "Perlindungan"
+     },
+     "url": "about/child-safeguarding/"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Admissions",
+    "id": "Penerimaan"
+   },
+   "links": [
+    {
+     "label": {
+      "en": "Inquire",
+      "id": "Tanya"
+     },
+     "url": "admissions/inquire/"
+    },
+    {
+     "label": {
+      "en": "Visit",
+      "id": "Kunjungan"
+     },
+     "url": "admissions/visit/"
+    },
+    {
+     "label": {
+      "en": "Apply",
+      "id": "Daftar"
+     },
+     "url": "admissions/apply/"
+    },
+    {
+     "label": {
+      "en": "Fees",
+      "id": "Biaya"
+     },
+     "url": "admissions/fees/"
+    },
+    {
+     "label": {
+      "en": "FAQ",
+      "id": "FAQ"
+     },
+     "url": "admissions/faq/"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Academics",
+    "id": "Akademik"
+   },
+   "links": [
+    {
+     "label": {
+      "en": "Early Years",
+      "id": "Early Years"
+     },
+     "url": "academics/early-years/"
+    },
+    {
+     "label": {
+      "en": "Elementary",
+      "id": "SD"
+     },
+     "url": "academics/elementary/"
+    },
+    {
+     "label": {
+      "en": "Middle School",
+      "id": "SMP"
+     },
+     "url": "academics/middle-school/"
+    },
+    {
+     "label": {
+      "en": "High School",
+      "id": "SMA"
+     },
+     "url": "academics/high-school/"
+    },
+    {
+     "label": {
+      "en": "IB & AP",
+      "id": "IB & AP"
+     },
+     "url": "academics/ib-ap/"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Community",
+    "id": "Komunitas"
+   },
+   "links": [
+    {
+     "label": {
+      "en": "Events",
+      "id": "Acara"
+     },
+     "url": "community/events/"
+    },
+    {
+     "label": {
+      "en": "Alumni",
+      "id": "Alumni"
+     },
+     "url": "community/alumni/"
+    },
+    {
+     "label": {
+      "en": "Giving",
+      "id": "Donasi"
+     },
+     "url": "giving/"
+    },
+    {
+     "label": {
+      "en": "Blog",
+      "id": "Blog"
+     },
+     "url": "news/blog/"
+    },
+    {
+     "label": {
+      "en": "Contact",
+      "id": "Kontak"
+     },
+     "url": "contact/"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "label": {
+    "en": "Privacy Policy",
+    "id": "Kebijakan Privasi"
+   },
+   "url": "privacy-policy/"
+  },
+  {
+   "label": {
+    "en": "Accessibility",
+    "id": "Aksesibilitas"
+   },
+   "url": "accessibility/"
+  },
+  {
+   "label": {
+    "en": "Site Map",
+    "id": "Peta Situs"
+   },
+   "url": "site-map/"
+  },
+  {
+   "label": {
+    "en": "Contact",
+    "id": "Kontak"
+   },
+   "url": "contact/"
+  }
+ ]
+}

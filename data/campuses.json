@@ -1,0 +1,37 @@
+[
+ {
+  "id": "campus-pattimura",
+  "slug": "about/campuses/pattimura",
+  "name": "Pattimura Campus",
+  "division": "Early Years & Elementary",
+  "address": "Jl. Pattimura 20, Kebayoran Baru, Jakarta Selatan",
+  "ages": "3–11",
+  "established": 1951,
+  "image": "assets/images/campuses/pattimura.svg",
+  "facilities": [
+   "Bilingual library",
+   "Art studios",
+   "Garden classrooms",
+   "Playgrounds",
+   "Dining hall"
+  ]
+ },
+ {
+  "id": "campus-horizon",
+  "slug": "about/campuses/horizon",
+  "name": "Horizon Campus",
+  "division": "Middle & High School",
+  "address": "Jl. Cakrawala Raya 12, Cilandak, Jakarta Selatan",
+  "ages": "11–18",
+  "established": 1988,
+  "image": "assets/images/campuses/horizon.svg",
+  "facilities": [
+   "8 science labs",
+   "Design studios",
+   "25m pool",
+   "Tennis courts",
+   "500-seat auditorium",
+   "Track & field"
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "id": "tag-stem",
+  "name": "STEM"
+ },
+ {
+  "id": "tag-studio",
+  "name": "Studio"
+ },
+ {
+  "id": "tag-service",
+  "name": "Service"
+ },
+ {
+  "id": "tag-alumni",
+  "name": "Alumni"
+ },
+ {
+  "id": "tag-earlyyears",
+  "name": "Early Years"
+ },
+ {
+  "id": "tag-wellbeing",
+  "name": "Wellbeing"
+ }
+]

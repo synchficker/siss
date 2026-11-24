@@ -1,0 +1,10 @@
+{
+ "titleSuffix": " — Cakrawala International School",
+ "defaultImage": "assets/images/homepage/og.svg",
+ "twitter": "@cakrawalaschool",
+ "organization": {
+  "@type": "School",
+  "name": "Cakrawala International School",
+  "address": "Jakarta Selatan, Indonesia"
+ }
+}

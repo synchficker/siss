@@ -1,0 +1,34 @@
+[
+ {
+  "id": "fee-ey",
+  "division": "Early Years",
+  "grades": "Pre-K–K",
+  "application": 3500000,
+  "annual": 185000000,
+  "capital": 45000000
+ },
+ {
+  "id": "fee-es",
+  "division": "Elementary",
+  "grades": "1–5",
+  "application": 3500000,
+  "annual": 235000000,
+  "capital": 55000000
+ },
+ {
+  "id": "fee-ms",
+  "division": "Middle School",
+  "grades": "6–8",
+  "application": 3500000,
+  "annual": 265000000,
+  "capital": 60000000
+ },
+ {
+  "id": "fee-hs",
+  "division": "High School",
+  "grades": "9–12",
+  "application": 3500000,
+  "annual": 295000000,
+  "capital": 65000000
+ }
+]

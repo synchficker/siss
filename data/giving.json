@@ -1,0 +1,34 @@
+[
+ {
+  "id": "fund-anniv",
+  "name": "75th Anniversary Campaign",
+  "goal": 7500000000,
+  "raised": 4275000000,
+  "description": "Scholarships and learning spaces for the next 75 years.",
+  "url": "giving/anniversary-campaign/"
+ },
+ {
+  "id": "fund-annual",
+  "name": "Annual Fund",
+  "goal": 2000000000,
+  "raised": 1150000000,
+  "description": "Unrestricted support for everyday excellence.",
+  "url": "giving/annual-fund/"
+ },
+ {
+  "id": "fund-scholar",
+  "name": "Scholarship Fund",
+  "goal": 3000000000,
+  "raised": 1620000000,
+  "description": "Open doors for talented students.",
+  "url": "giving/scholarship-fund/"
+ },
+ {
+  "id": "fund-peduli",
+  "name": "Peduli Appeal",
+  "goal": 1500000000,
+  "raised": 825000000,
+  "description": "Student-led service across Jakarta.",
+  "url": "community/peduli/"
+ }
+]

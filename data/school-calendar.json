@@ -1,0 +1,90 @@
+[
+ {
+  "id": "cal-1",
+  "term": "Term 1",
+  "label": {
+   "en": "Applications open (2027–28)",
+   "id": "Pendaftaran dibuka (2027–28)"
+  },
+  "start": "2026-09-01",
+  "end": "2026-09-01",
+  "type": "admissions"
+ },
+ {
+  "id": "cal-2",
+  "term": "Term 1",
+  "label": {
+   "en": "Open House",
+   "id": "Open House"
+  },
+  "start": "2026-12-05",
+  "end": "2026-12-05",
+  "type": "event"
+ },
+ {
+  "id": "cal-3",
+  "term": "Term 1",
+  "label": {
+   "en": "Priority application deadline",
+   "id": "Batas pendaftaran prioritas"
+  },
+  "start": "2026-12-15",
+  "end": "2026-12-15",
+  "type": "admissions"
+ },
+ {
+  "id": "cal-4",
+  "term": "Term 2",
+  "label": {
+   "en": "Assessments & interviews",
+   "id": "Asesmen & wawancara"
+  },
+  "start": "2027-01-11",
+  "end": "2027-02-05",
+  "type": "admissions"
+ },
+ {
+  "id": "cal-5",
+  "term": "Term 2",
+  "label": {
+   "en": "Offers released",
+   "id": "Pengumuman penerimaan"
+  },
+  "start": "2027-02-19",
+  "end": "2027-02-19",
+  "type": "admissions"
+ },
+ {
+  "id": "cal-6",
+  "term": "Term 2",
+  "label": {
+   "en": "Enrollment deadline",
+   "id": "Batas pendaftaran ulang"
+  },
+  "start": "2027-03-12",
+  "end": "2027-03-12",
+  "type": "admissions"
+ },
+ {
+  "id": "cal-7",
+  "term": "Term 2",
+  "label": {
+   "en": "Re-enrollment opens",
+   "id": "Pendaftaran ulang dibuka"
+  },
+  "start": "2027-03-01",
+  "end": "2027-03-01",
+  "type": "enrollment"
+ },
+ {
+  "id": "cal-8",
+  "term": "Term 3",
+  "label": {
+   "en": "New family orientation",
+   "id": "Orientasi keluarga baru"
+  },
+  "start": "2027-08-02",
+  "end": "2027-08-04",
+  "type": "event"
+ }
+]

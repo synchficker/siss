@@ -1,0 +1,189 @@
+[
+ {
+  "id": "sport-aquatics",
+  "slug": "jis-academy/sports/aquatics",
+  "name": "Aquatics",
+  "ages": "4–18",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Horizon pool",
+  "coach": "Coach Maya",
+  "fee": "IDR 2.4jt/term",
+  "bring": {
+   "en": "Swimsuit, goggles, towel",
+   "id": "Swimsuit, goggles, towel"
+  }
+ },
+ {
+  "id": "sport-badminton",
+  "slug": "jis-academy/sports/badminton",
+  "name": "Badminton",
+  "ages": "6–16",
+  "season": {
+   "en": "Term 1 & 2",
+   "id": "Term 1 & 2"
+  },
+  "venue": "Horizon hall",
+  "coach": "Coach Budi",
+  "fee": "IDR 1.8jt/term",
+  "bring": {
+   "en": "Racquet, indoor shoes",
+   "id": "Racquet, indoor shoes"
+  }
+ },
+ {
+  "id": "sport-baseball-softball",
+  "slug": "jis-academy/sports/baseball-softball",
+  "name": "Baseball & Softball",
+  "ages": "8–16",
+  "season": {
+   "en": "Term 2",
+   "id": "Term 2"
+  },
+  "venue": "Horizon field",
+  "coach": "Coach Dan",
+  "fee": "IDR 2.0jt/term",
+  "bring": {
+   "en": "Glove, cleats",
+   "id": "Glove, cleats"
+  }
+ },
+ {
+  "id": "sport-basketball",
+  "slug": "jis-academy/sports/basketball",
+  "name": "Basketball",
+  "ages": "6–18",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Horizon courts",
+  "coach": "Coach Sari",
+  "fee": "IDR 2.0jt/term",
+  "bring": {
+   "en": "Court shoes, ball",
+   "id": "Court shoes, ball"
+  }
+ },
+ {
+  "id": "sport-gymnastics",
+  "slug": "jis-academy/sports/gymnastics",
+  "name": "Gymnastics",
+  "ages": "4–12",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Pattimura studio",
+  "coach": "Coach Rina",
+  "fee": "IDR 2.2jt/term",
+  "bring": {
+   "en": "Leotard, grip",
+   "id": "Leotard, grip"
+  }
+ },
+ {
+  "id": "sport-rugby",
+  "slug": "jis-academy/sports/rugby",
+  "name": "Rugby",
+  "ages": "10–18",
+  "season": {
+   "en": "Term 1",
+   "id": "Term 1"
+  },
+  "venue": "Horizon field",
+  "coach": "Coach Tom",
+  "fee": "IDR 2.0jt/term",
+  "bring": {
+   "en": "Boots, mouthguard",
+   "id": "Boots, mouthguard"
+  }
+ },
+ {
+  "id": "sport-soccer",
+  "slug": "jis-academy/sports/soccer",
+  "name": "Soccer",
+  "ages": "4–18",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Both campuses",
+  "coach": "Coach Agus",
+  "fee": "IDR 1.8jt/term",
+  "bring": {
+   "en": "Shin guards, boots",
+   "id": "Shin guards, boots"
+  }
+ },
+ {
+  "id": "sport-taekwondo",
+  "slug": "jis-academy/sports/taekwondo",
+  "name": "Taekwondo",
+  "ages": "5–16",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Pattimura dojo",
+  "coach": "Master Kim",
+  "fee": "IDR 1.9jt/term",
+  "bring": {
+   "en": "Dobok",
+   "id": "Dobok"
+  }
+ },
+ {
+  "id": "sport-tennis",
+  "slug": "jis-academy/sports/tennis",
+  "name": "Tennis",
+  "ages": "6–18",
+  "season": {
+   "en": "Year-round",
+   "id": "Year-round"
+  },
+  "venue": "Tennis courts",
+  "coach": "Coach Lia",
+  "fee": "IDR 2.4jt/term",
+  "bring": {
+   "en": "Racquet, court shoes",
+   "id": "Racquet, court shoes"
+  }
+ },
+ {
+  "id": "sport-track-field",
+  "slug": "jis-academy/sports/track-field",
+  "name": "Track & Field",
+  "ages": "8–18",
+  "season": {
+   "en": "Term 2",
+   "id": "Term 2"
+  },
+  "venue": "Horizon track",
+  "coach": "Coach Nia",
+  "fee": "IDR 1.7jt/term",
+  "bring": {
+   "en": "Running shoes",
+   "id": "Running shoes"
+  }
+ },
+ {
+  "id": "sport-volleyball",
+  "slug": "jis-academy/sports/volleyball",
+  "name": "Volleyball",
+  "ages": "10–18",
+  "season": {
+   "en": "Term 1 & 2",
+   "id": "Term 1 & 2"
+  },
+  "venue": "Horizon hall",
+  "coach": "Coach Yuni",
+  "fee": "IDR 1.8jt/term",
+  "bring": {
+   "en": "Knee pads, court shoes",
+   "id": "Knee pads, court shoes"
+  }
+ }
+]

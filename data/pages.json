@@ -1,0 +1,4662 @@
+[
+ {
+  "id": "page-home",
+  "slug": "",
+  "title": "Cakrawala International School",
+  "status": "published",
+  "language": "en",
+  "template": "home",
+  "hero": {
+   "kicker": "Welcome",
+   "title": "Cakrawala International School",
+   "description": "A premier Early Years–Grade 12 international school in South Jakarta.",
+   "image": "assets/images/homepage/hero-1.svg"
+  },
+  "sections": [],
+  "seo": {
+   "title": "Cakrawala International School",
+   "description": "A premier Early Years–Grade 12 international school in South Jakarta."
+  },
+  "cta": false
+ },
+ {
+  "id": "page-about",
+  "slug": "about",
+  "title": "About Cakrawala",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "About us",
+   "title": "About Cakrawala",
+   "description": "Seventy-five years of learning in Jakarta, guided by care, curiosity, and community.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Explore our school",
+    "items": [
+     {
+      "icon": "target",
+      "title": "Mission & Vision",
+      "text": "What we believe.",
+      "url": "about/mission-vision/"
+     },
+     {
+      "icon": "users",
+      "title": "Leadership",
+      "text": "The team guiding us.",
+      "url": "about/leadership/"
+     },
+     {
+      "icon": "map-pin",
+      "title": "Campuses",
+      "text": "Two green campuses.",
+      "url": "about/campuses/"
+     },
+     {
+      "icon": "heart",
+      "title": "Belonging",
+      "text": "Every learner valued.",
+      "url": "about/belonging/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "stats",
+    "background": "dark",
+    "heading": "At a glance",
+    "items": [
+     {
+      "value": "1951",
+      "label": "Founded"
+     },
+     {
+      "value": "75",
+      "label": "Years"
+     },
+     {
+      "value": "2",
+      "label": "Campuses"
+     },
+     {
+      "value": "60+",
+      "label": "Nationalities"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Founded 1951; independent, co-educational",
+     "Early Years to Grade 12, two campuses",
+     "60+ nationalities, one community"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "About Cakrawala",
+   "description": "Seventy-five years of learning in Jakarta, guided by care, curiosity, and community."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Tentang Cakrawala",
+    "hero": {
+     "description": "Tujuh puluh lima tahun belajar di Jakarta, dipandu kepedulian, rasa ingin tahu, dan komunitas."
+    }
+   }
+  },
+  "related": [
+   "admissions",
+   "academics",
+   "arts"
+  ]
+ },
+ {
+  "id": "page-about-mission-vision",
+  "slug": "about/mission-vision",
+  "title": "Mission & Vision",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Our purpose",
+   "title": "Mission & Vision",
+   "description": "We prepare learners to be their best and to be best for the world.",
+   "image": "assets/images/about/mission.svg"
+  },
+  "sections": [
+   {
+    "type": "quote",
+    "text": "We learn in Indonesia to be best for the world.",
+    "name": "Cakrawala mission",
+    "role": "Our guiding promise"
+   },
+   {
+    "type": "split",
+    "heading": "Our vision",
+    "body": [
+     "A community where every learner widens their horizon — intellectually, creatively, and ethically — and uses that growth in service of others."
+    ],
+    "image": "assets/images/about/mission.svg",
+    "points": [
+     "Curiosity as the engine",
+     "Belonging as the condition",
+     "Service as the measure"
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Learner-centered, inquiry-led",
+     "Indonesian context, global outlook",
+     "Character, scholarship, service"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Mission & Vision",
+   "description": "We prepare learners to be their best and to be best for the world."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/leadership",
+   "about/campuses"
+  ]
+ },
+ {
+  "id": "page-about-leadership",
+  "slug": "about/leadership",
+  "title": "Leadership",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Our people",
+   "title": "Leadership",
+   "description": "Meet the educators who guide Cakrawala's mission and daily life.",
+   "image": "assets/images/about/leadership.svg"
+  },
+  "sections": [
+   {
+    "type": "people",
+    "ref": "leadership",
+    "heading": "Leadership team"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Experienced international educators",
+     "Collaborative governance",
+     "Wellbeing at the center"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Leadership",
+   "description": "Meet the educators who guide Cakrawala's mission and daily life."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/campuses"
+  ]
+ },
+ {
+  "id": "page-about-campuses",
+  "slug": "about/campuses",
+  "title": "Our Campuses",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Where we learn",
+   "title": "Our Campuses",
+   "description": "Two leafy South Jakarta campuses designed for learning from age 3 to 18.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Visit a campus",
+    "items": [
+     {
+      "image": "assets/images/campuses/pattimura.svg",
+      "title": "Pattimura Campus",
+      "text": "Kebayoran Baru — Early Years & Elementary.",
+      "url": "about/campuses/pattimura/"
+     },
+     {
+      "image": "assets/images/campuses/horizon.svg",
+      "title": "Horizon Campus",
+      "text": "Cilandak — Middle & High School.",
+      "url": "about/campuses/horizon/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Pattimura: Early Years & Elementary",
+     "Horizon: Middle & High School",
+     "Outdoor learning everywhere"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Our Campuses",
+   "description": "Two leafy South Jakarta campuses designed for learning from age 3 to 18."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-about-campuses-pattimura",
+  "slug": "about/campuses/pattimura",
+  "title": "Pattimura Campus",
+  "status": "published",
+  "language": "en",
+  "template": "campus",
+  "hero": {
+   "kicker": "Early Years & Elementary",
+   "title": "Pattimura Campus",
+   "description": "Our original Kebayoran Baru campus — gardens, studios, and shade trees for young learners.",
+   "image": "assets/images/campuses/pattimura.svg"
+  },
+  "sections": [
+   {
+    "type": "stats",
+    "heading": "Campus facts",
+    "items": [
+     {
+      "value": "1951",
+      "label": "Established"
+     },
+     {
+      "value": "3–11",
+      "label": "Ages"
+     },
+     {
+      "value": "6 ha",
+      "label": "Grounds"
+     },
+     {
+      "value": "24",
+      "label": "Homerooms"
+     }
+    ]
+   },
+   {
+    "type": "gallery",
+    "heading": "Around Pattimura",
+    "images": [
+     {
+      "src": "assets/images/campuses/pattimura.svg",
+      "alt": "Pattimura gardens"
+     },
+     {
+      "src": "assets/images/academics/early-years.svg",
+      "alt": "Early Years studio"
+     },
+     {
+      "src": "assets/images/academics/elementary.svg",
+      "alt": "Elementary classroom"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Ages 3–11",
+     "Garden classrooms and studios",
+     "Bilingual library and playgrounds"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Pattimura Campus",
+   "description": "Our original Kebayoran Baru campus — gardens, studios, and shade trees for young learners."
+  },
+  "cta": true,
+  "related": [
+   "about/campuses",
+   "about/campuses/horizon"
+  ]
+ },
+ {
+  "id": "page-about-campuses-horizon",
+  "slug": "about/campuses/horizon",
+  "title": "Horizon Campus",
+  "status": "published",
+  "language": "en",
+  "template": "campus",
+  "hero": {
+   "kicker": "Middle & High School",
+   "title": "Horizon Campus",
+   "description": "Our Cilandak campus for Grades 6–12 — labs, courts, and a 500-seat auditorium.",
+   "image": "assets/images/campuses/horizon.svg"
+  },
+  "sections": [
+   {
+    "type": "stats",
+    "heading": "Campus facts",
+    "items": [
+     {
+      "value": "6–12",
+      "label": "Grades"
+     },
+     {
+      "value": "500",
+      "label": "Auditorium"
+     },
+     {
+      "value": "8",
+      "label": "Labs"
+     },
+     {
+      "value": "12",
+      "label": "Sports"
+     }
+    ]
+   },
+   {
+    "type": "gallery",
+    "heading": "Around Horizon",
+    "images": [
+     {
+      "src": "assets/images/campuses/horizon.svg",
+      "alt": "Horizon courtyard"
+     },
+     {
+      "src": "assets/images/academics/high-school.svg",
+      "alt": "High School wing"
+     },
+     {
+      "src": "assets/images/activities/athletics.svg",
+      "alt": "Athletics field"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Grades 6–12",
+     "Science labs and design studios",
+     "Pool, courts, and fields"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Horizon Campus",
+   "description": "Our Cilandak campus for Grades 6–12 — labs, courts, and a 500-seat auditorium."
+  },
+  "cta": true,
+  "related": [
+   "about/campuses",
+   "about/campuses/pattimura"
+  ]
+ },
+ {
+  "id": "page-about-work-at-school",
+  "slug": "about/work-at-school",
+  "title": "Work at Cakrawala",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Careers",
+   "title": "Work at Cakrawala",
+   "description": "Teach, lead, and grow with a community that invests in its people.",
+   "image": "assets/images/about/work.svg"
+  },
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "How to apply",
+    "items": [
+     {
+      "title": "Explore openings",
+      "text": "Read the role profile."
+     },
+     {
+      "title": "Apply",
+      "text": "Send a CV and cover letter."
+     },
+     {
+      "title": "Interview & visit",
+      "text": "Meet the team."
+     }
+    ]
+   },
+   {
+    "type": "table",
+    "heading": "Sample openings",
+    "head": [
+     "Role",
+     "Division",
+     "Start"
+    ],
+    "rows": [
+     [
+      "Elementary Teacher",
+      "Elementary",
+      "Aug 2027"
+     ],
+     [
+      "IB Biology Teacher",
+      "High School",
+      "Aug 2027"
+     ],
+     [
+      "Counselor",
+      "Middle School",
+      "Jan 2027"
+     ]
+    ],
+    "note": "Illustrative — manage via CMS."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Competitive international packages",
+     "Funded professional learning",
+     "Supportive culture"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Work at Cakrawala",
+   "description": "Teach, lead, and grow with a community that invests in its people."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-about-child-safeguarding",
+  "slug": "about/child-safeguarding",
+  "title": "Child Safeguarding",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Our commitment",
+   "title": "Child Safeguarding",
+   "description": "Every child at Cakrawala is safe, respected, and protected — without exception.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "faq",
+    "heading": "Common questions",
+    "items": [
+     {
+      "q": "How do I report a concern?",
+      "a": [
+       "Contact a safeguarding lead or use the contact form; concerns are handled confidentially."
+      ]
+     },
+     {
+      "q": "Are staff screened?",
+      "a": [
+       "Yes — background checks and references are required for all staff and regular volunteers."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Code of conduct for all adults",
+     "Trained safeguarding leads",
+     "Confidential reporting"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Child Safeguarding",
+   "description": "Every child at Cakrawala is safe, respected, and protected — without exception."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-about-belonging",
+  "slug": "about/belonging",
+  "title": "Belonging",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Every learner known",
+   "title": "Belonging",
+   "description": "A school where every student feels seen, heard, and valued.",
+   "image": "assets/images/about/belonging.svg"
+  },
+  "sections": [
+   {
+    "type": "split",
+    "heading": "Belonging by design",
+    "body": [
+     "From advisory groups to student-led clubs, we build structures that help every child find their people and their place."
+    ],
+    "image": "assets/images/about/belonging.svg",
+    "points": [
+     "Advisory for every student",
+     "Affinity and interest groups",
+     "Accessible learning support"
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Inclusive admissions and support",
+     "Student voice in school life",
+     "Celebrating many cultures"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Belonging",
+   "description": "A school where every student feels seen, heard, and valued."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-about-news-media",
+  "slug": "about/news-media",
+  "title": "News & Media",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Stay connected",
+   "title": "News & Media",
+   "description": "Stories, announcements, and media from across the Cakrawala community.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Channels",
+    "items": [
+     {
+      "icon": "pen-line",
+      "title": "Blog",
+      "text": "Classroom stories.",
+      "url": "news/blog/"
+     },
+     {
+      "icon": "mic",
+      "title": "Podcast",
+      "text": "Community conversations.",
+      "url": "about/news-media/podcast/"
+     },
+     {
+      "icon": "newspaper",
+      "title": "In the News",
+      "text": "Media coverage.",
+      "url": "about/news-media/in-the-news/"
+     },
+     {
+      "icon": "share-2",
+      "title": "Social Media",
+      "text": "Follow daily.",
+      "url": "about/news-media/social-media/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "posts",
+    "limit": 3,
+    "heading": "Latest stories"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Blog for classroom stories",
+     "Community podcast",
+     "Social channels"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "News & Media",
+   "description": "Stories, announcements, and media from across the Cakrawala community."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-about-news-media-podcast",
+  "slug": "about/news-media/podcast",
+  "title": "Cakrawala Podcast",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Listen",
+   "title": "Cakrawala Podcast",
+   "description": "Conversations with students, teachers, and alumni about learning and life.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Recent episodes",
+    "head": [
+     "Episode",
+     "Topic",
+     "Length"
+    ],
+    "rows": [
+     [
+      "E12",
+      "What is service learning?",
+      "28 min"
+     ],
+     [
+      "E11",
+      "Choosing IB vs AP",
+      "34 min"
+     ],
+     [
+      "E10",
+      "Alumni in conservation",
+      "31 min"
+     ]
+    ],
+    "note": "Sample — add audio links via CMS."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Monthly episodes",
+     "Major platforms",
+     "Community-hosted"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Cakrawala Podcast",
+   "description": "Conversations with students, teachers, and alumni about learning and life."
+  },
+  "cta": true,
+  "related": [
+   "about/news-media",
+   "about/news-media/in-the-news",
+   "about/news-media/social-media"
+  ]
+ },
+ {
+  "id": "page-about-news-media-in-the-news",
+  "slug": "about/news-media/in-the-news",
+  "title": "In the News",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Press",
+   "title": "In the News",
+   "description": "Cakrawala people and programs in the wider media.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Recent coverage",
+    "head": [
+     "Outlet",
+     "Story",
+     "Date"
+    ],
+    "rows": [
+     [
+      "Jakarta Education Weekly",
+      "Service learning that sticks",
+      "Oct 2026"
+     ],
+     [
+      "Global Schools Review",
+      "IB and AP under one roof",
+      "Sep 2026"
+     ]
+    ],
+    "note": "Illustrative coverage."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Press releases and mentions",
+     "Media inquiries welcome",
+     "Brand assets on request"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "In the News",
+   "description": "Cakrawala people and programs in the wider media."
+  },
+  "cta": true,
+  "related": [
+   "about/news-media",
+   "about/news-media/podcast",
+   "about/news-media/social-media"
+  ]
+ },
+ {
+  "id": "page-about-news-media-social-media",
+  "slug": "about/news-media/social-media",
+  "title": "Social Media",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Follow us",
+   "title": "Social Media",
+   "description": "Find Cakrawala where our community gathers.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Channels",
+    "items": [
+     {
+      "icon": "instagram",
+      "title": "Instagram",
+      "text": "Campus life, daily.",
+      "url": "https://instagram.com/"
+     },
+     {
+      "icon": "youtube",
+      "title": "YouTube",
+      "text": "Performances and talks.",
+      "url": "https://youtube.com/"
+     },
+     {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "text": "School and alumni news.",
+      "url": "https://linkedin.com/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Instagram for daily life",
+     "YouTube for performances",
+     "LinkedIn for updates"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Social Media",
+   "description": "Find Cakrawala where our community gathers."
+  },
+  "cta": true,
+  "related": [
+   "about/news-media",
+   "about/news-media/podcast",
+   "about/news-media/in-the-news"
+  ]
+ },
+ {
+  "id": "page-about-anniversary",
+  "slug": "about/anniversary",
+  "title": "75th Anniversary",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "1951–2026",
+   "title": "75th Anniversary",
+   "description": "Seventy-five years of widening horizons — and the next chapter starts now.",
+   "image": "assets/images/about/anniversary.svg"
+  },
+  "sections": [
+   {
+    "type": "campaign",
+    "heading": "The 75th Anniversary Campaign",
+    "goal": 7500000000,
+    "raised": 4275000000,
+    "description": "Fund scholarships and learning spaces for the next 75 years."
+   },
+   {
+    "type": "cards",
+    "heading": "Join in",
+    "items": [
+     {
+      "icon": "calendar-days",
+      "title": "Events",
+      "text": "See what's on.",
+      "url": "community/events/"
+     },
+     {
+      "icon": "hand-heart",
+      "title": "Give",
+      "text": "Support the campaign.",
+      "url": "giving/anniversary-campaign/"
+     },
+     {
+      "icon": "users",
+      "title": "Alumni",
+      "text": "Reconnect.",
+      "url": "community/alumni/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "A year of celebration and service",
+     "Alumni gatherings worldwide",
+     "The Anniversary Campaign"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "75th Anniversary",
+   "description": "Seventy-five years of widening horizons — and the next chapter starts now."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "about/mission-vision",
+   "about/leadership"
+  ]
+ },
+ {
+  "id": "page-admissions",
+  "slug": "admissions",
+  "title": "Admissions",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Join us",
+   "title": "Admissions",
+   "description": "Three simple steps — inquire, visit, apply — with a team that guides you throughout.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Your path",
+    "items": [
+     {
+      "title": "Inquire",
+      "text": "Tell us about your child."
+     },
+     {
+      "title": "Visit",
+      "text": "Tour a campus."
+     },
+     {
+      "title": "Apply",
+      "text": "Submit records and assessment."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "ref": "admissions",
+    "heading": "Admissions FAQ"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Rolling admissions where places allow",
+     "Entry from age 3 to Grade 12",
+     "Support for relocating families"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Admissions",
+   "description": "Three simple steps — inquire, visit, apply — with a team that guides you throughout."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Penerimaan",
+    "hero": {
+     "description": "Tiga langkah mudah — tanya, kunjungi, daftar — dengan tim yang memandu Anda."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "academics",
+   "arts"
+  ]
+ },
+ {
+  "id": "page-admissions-inquire",
+  "slug": "admissions/inquire",
+  "title": "Inquire",
+  "status": "published",
+  "language": "en",
+  "template": "form",
+  "hero": {
+   "kicker": "Step 1",
+   "title": "Inquire",
+   "description": "Tell us about your family and ask anything — we reply within two school days.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "form",
+    "formId": "inquiry"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "No obligation",
+     "Personal response",
+     "Guidance on next steps"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Inquire",
+   "description": "Tell us about your family and ask anything — we reply within two school days."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/visit",
+   "admissions/apply"
+  ]
+ },
+ {
+  "id": "page-admissions-visit",
+  "slug": "admissions/visit",
+  "title": "Visit",
+  "status": "published",
+  "language": "en",
+  "template": "form",
+  "hero": {
+   "kicker": "Step 2",
+   "title": "Visit",
+   "description": "The best way to know Cakrawala is to walk our campuses and meet our people.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "form",
+    "formId": "visit"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Weekday morning tours",
+     "Meet division leaders",
+     "See classes in session"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Visit",
+   "description": "The best way to know Cakrawala is to walk our campuses and meet our people."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/apply"
+  ]
+ },
+ {
+  "id": "page-admissions-apply",
+  "slug": "admissions/apply",
+  "title": "Apply",
+  "status": "published",
+  "language": "en",
+  "template": "form",
+  "hero": {
+   "kicker": "Step 3",
+   "title": "Apply",
+   "description": "Ready to join? Here is how to submit a complete application.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Checklist",
+    "items": [
+     {
+      "title": "Request the pack",
+      "text": "Use the inquiry form."
+     },
+     {
+      "title": "Gather records",
+      "text": "Two years of reports + recommendation."
+     },
+     {
+      "title": "Assessment",
+      "text": "Tasks and a family conversation."
+     }
+    ]
+   },
+   {
+    "type": "form",
+    "formId": "inquiry"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Application form",
+     "Records and recommendation",
+     "Age-appropriate assessment"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Apply",
+   "description": "Ready to join? Here is how to submit a complete application."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-admissions-guidelines",
+  "slug": "admissions/guidelines",
+  "title": "Admissions Guidelines",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Policies",
+   "title": "Admissions Guidelines",
+   "description": "How places are offered and what we look for at each stage.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Age guidelines (sample)",
+    "head": [
+     "Grade",
+     "Age by 1 Sept"
+    ],
+    "rows": [
+     [
+      "Early Years",
+      "3–5"
+     ],
+     [
+      "Grade 1",
+      "6"
+     ],
+     [
+      "Grade 6",
+      "11"
+     ],
+     [
+      "Grade 9",
+      "14"
+     ]
+    ],
+    "note": "Illustrative — confirm with admissions."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Age guidelines per grade",
+     "Priority and waitlist policy",
+     "English support considerations"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Admissions Guidelines",
+   "description": "How places are offered and what we look for at each stage."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-admissions-fees",
+  "slug": "admissions/fees",
+  "title": "Tuition & Fees",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Investment",
+   "title": "Tuition & Fees",
+   "description": "Transparent, illustrative fee information for planning your decision.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "fees",
+    "heading": "Fee schedule (illustrative)"
+   }
+  ],
+  "seo": {
+   "title": "Tuition & Fees",
+   "description": "Transparent, illustrative fee information for planning your decision."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-admissions-calendar",
+  "slug": "admissions/calendar",
+  "title": "Admissions Calendar",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Key dates",
+   "title": "Admissions Calendar",
+   "description": "Important dates for applications, assessments, and offers.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "calendar",
+    "heading": "2026–2027 cycle"
+   }
+  ],
+  "seo": {
+   "title": "Admissions Calendar",
+   "description": "Important dates for applications, assessments, and offers."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-admissions-faq",
+  "slug": "admissions/faq",
+  "title": "Admissions FAQ",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Questions",
+   "title": "Admissions FAQ",
+   "description": "Answers to the questions families ask most.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "faq",
+    "ref": "admissions",
+    "heading": "Frequently asked"
+   }
+  ],
+  "seo": {
+   "title": "Admissions FAQ",
+   "description": "Answers to the questions families ask most."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-admissions-terms",
+  "slug": "admissions/terms",
+  "title": "Admissions Terms",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "The fine print",
+   "title": "Admissions Terms",
+   "description": "The terms governing enrollment, offers, and withdrawals.",
+   "image": "assets/images/admissions/admissions.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "Summary",
+    "body": [
+     "This page summarizes enrollment terms for demonstration. Replace with your school's approved legal text via the CMS before publishing."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Offers subject to places and records",
+     "Deposit and withdrawal policy",
+     "Re-enrollment each spring"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Admissions Terms",
+   "description": "The terms governing enrollment, offers, and withdrawals."
+  },
+  "cta": true,
+  "related": [
+   "admissions",
+   "admissions/inquire",
+   "admissions/visit"
+  ]
+ },
+ {
+  "id": "page-academics",
+  "slug": "academics",
+  "title": "Academics",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Learning",
+   "title": "Academics",
+   "description": "A continuous, inquiry-led pathway from age 3 to Grade 12, with IB and AP choice in High School.",
+   "image": "assets/images/academics/academics.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Divisions",
+    "items": [
+     {
+      "icon": "shapes",
+      "title": "Early Years",
+      "text": "Ages 3–6, play-based inquiry.",
+      "url": "academics/early-years/"
+     },
+     {
+      "icon": "pencil-ruler",
+      "title": "Elementary",
+      "text": "Grades 1–5, strong foundations.",
+      "url": "academics/elementary/"
+     },
+     {
+      "icon": "compass",
+      "title": "Middle School",
+      "text": "Grades 6–8, explore and connect.",
+      "url": "academics/middle-school/"
+     },
+     {
+      "icon": "graduation-cap",
+      "title": "High School",
+      "text": "Grades 9–12, IB & AP.",
+      "url": "academics/high-school/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "cards",
+    "heading": "Signature",
+    "items": [
+     {
+      "image": "assets/images/academics/studio.svg",
+      "title": "Cakrawala Studio",
+      "text": "Real-world projects.",
+      "url": "academics/jis-studio/"
+     },
+     {
+      "image": "assets/images/academics/service.svg",
+      "title": "Service Learning",
+      "text": "Learning that gives back.",
+      "url": "academics/service-learning/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Four divisions",
+     "IB Diploma and AP",
+     "Support for every learner"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Academics",
+   "description": "A continuous, inquiry-led pathway from age 3 to Grade 12, with IB and AP choice in High School."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Akademik",
+    "hero": {
+     "description": "Jalur berkelanjutan berbasis inkuiri dari usia 3 hingga Kelas 12, dengan pilihan IB dan AP di SMA."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "arts"
+  ]
+ },
+ {
+  "id": "page-academics-early-years",
+  "slug": "academics/early-years",
+  "title": "Early Years",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Ages 3–6",
+   "title": "Early Years",
+   "description": "Play-based, inquiry-rich beginnings where curiosity is the curriculum.",
+   "image": "assets/images/academics/early-years.svg"
+  },
+  "sections": [
+   {
+    "type": "programFacts",
+    "ref": "academics/early-years"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Small classes, big attention",
+     "Specialist arts & PE teachers",
+     "Learning support built in"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Early Years",
+   "description": "Play-based, inquiry-rich beginnings where curiosity is the curriculum."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/elementary",
+   "academics/middle-school"
+  ]
+ },
+ {
+  "id": "page-academics-elementary",
+  "slug": "academics/elementary",
+  "title": "Elementary School",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Grades 1–5",
+   "title": "Elementary School",
+   "description": "Strong foundations in literacy and numeracy, wrapped in care and exploration.",
+   "image": "assets/images/academics/elementary.svg"
+  },
+  "sections": [
+   {
+    "type": "programFacts",
+    "ref": "academics/elementary"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Small classes, big attention",
+     "Specialist arts & PE teachers",
+     "Learning support built in"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Elementary School",
+   "description": "Strong foundations in literacy and numeracy, wrapped in care and exploration."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/middle-school"
+  ]
+ },
+ {
+  "id": "page-academics-middle-school",
+  "slug": "academics/middle-school",
+  "title": "Middle School",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Grades 6–8",
+   "title": "Middle School",
+   "description": "Students build powerful connections between learning and real life.",
+   "image": "assets/images/academics/middle-school.svg"
+  },
+  "sections": [
+   {
+    "type": "programFacts",
+    "ref": "academics/middle-school"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Small classes, big attention",
+     "Specialist arts & PE teachers",
+     "Learning support built in"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Middle School",
+   "description": "Students build powerful connections between learning and real life."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-high-school",
+  "slug": "academics/high-school",
+  "title": "High School",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Grades 9–12",
+   "title": "High School",
+   "description": "Choice and support: IB Diploma, AP, and a pathway for every aspiration.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "programFacts",
+    "ref": "academics/high-school"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Small classes, big attention",
+     "Specialist arts & PE teachers",
+     "Learning support built in"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "High School",
+   "description": "Choice and support: IB Diploma, AP, and a pathway for every aspiration."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-middle-school-jis-studio",
+  "slug": "academics/middle-school/jis-studio",
+  "title": "Studio in Middle School",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Experiential pathway",
+   "title": "Studio in Middle School",
+   "description": "An opt-in pathway where Grades 6–8 learn through long-term, real-world projects.",
+   "image": "assets/images/academics/middle-school.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Explore",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Research",
+      "text": "How students investigate.",
+      "url": "academics/middle-school/jis-studio/research/"
+     },
+     {
+      "icon": "hammer",
+      "title": "Projects",
+      "text": "What students build.",
+      "url": "academics/middle-school/jis-studio/projects/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Team-based semester projects",
+     "Community mentors",
+     "Reflection at every milestone"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Studio in Middle School",
+   "description": "An opt-in pathway where Grades 6–8 learn through long-term, real-world projects."
+  },
+  "cta": true,
+  "related": [
+   "academics/middle-school"
+  ]
+ },
+ {
+  "id": "page-academics-middle-school-jis-studio-research",
+  "slug": "academics/middle-school/jis-studio/research",
+  "title": "Studio Research",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Investigate",
+   "title": "Studio Research",
+   "description": "Students frame questions, gather evidence, and test ideas with real stakeholders.",
+   "image": "assets/images/academics/middle-school.svg"
+  },
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Research cycle",
+    "items": [
+     {
+      "title": "Frame",
+      "text": "Define a real problem."
+     },
+     {
+      "title": "Investigate",
+      "text": "Interviews and data."
+     },
+     {
+      "title": "Synthesize",
+      "text": "Findings into criteria."
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Human-centered methods",
+     "Fieldwork in Jakarta",
+     "Evidence-based decisions"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Studio Research",
+   "description": "Students frame questions, gather evidence, and test ideas with real stakeholders."
+  },
+  "cta": true,
+  "related": [
+   "academics/middle-school/jis-studio",
+   "academics/middle-school/jis-studio/projects"
+  ]
+ },
+ {
+  "id": "page-academics-middle-school-jis-studio-projects",
+  "slug": "academics/middle-school/jis-studio/projects",
+  "title": "Studio Projects",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Build",
+   "title": "Studio Projects",
+   "description": "Semester-long projects that ship to real audiences — products, campaigns, exhibits.",
+   "image": "assets/images/academics/middle-school.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample projects",
+    "head": [
+     "Project",
+     "Partner",
+     "Outcome"
+    ],
+    "rows": [
+     [
+      "Clean water audit",
+      "Local NGO",
+      "Report + plan"
+     ],
+     [
+      "Garden redesign",
+      "PTA",
+      "Built beds"
+     ],
+     [
+      "Oral history",
+      "Alumni",
+      "Digital exhibit"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Public exhibitions",
+     "Iterate with feedback",
+     "Reflect and transfer"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Studio Projects",
+   "description": "Semester-long projects that ship to real audiences — products, campaigns, exhibits."
+  },
+  "cta": true,
+  "related": [
+   "academics/middle-school/jis-studio",
+   "academics/middle-school/jis-studio/research"
+  ]
+ },
+ {
+  "id": "page-academics-high-school-counseling",
+  "slug": "academics/high-school/counseling",
+  "title": "University Counseling",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Guidance",
+   "title": "University Counseling",
+   "description": "Personalized guidance to find the university that fits — not just the one that ranks.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "How we help",
+    "items": [
+     {
+      "icon": "compass",
+      "title": "Explore",
+      "text": "A balanced, personal list."
+     },
+     {
+      "icon": "file-text",
+      "title": "Apply",
+      "text": "Essays and timelines."
+     },
+     {
+      "icon": "plane",
+      "title": "Transition",
+      "text": "Life beyond Jakarta."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "~60 students per counselor",
+     "100+ university visits",
+     "Global application support"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "University Counseling",
+   "description": "Personalized guidance to find the university that fits — not just the one that ranks."
+  },
+  "cta": true,
+  "related": [
+   "academics/high-school",
+   "academics/high-school/profile-archive"
+  ]
+ },
+ {
+  "id": "page-academics-high-school-profile-archive",
+  "slug": "academics/high-school/profile-archive",
+  "title": "School Profile Archive",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Reference",
+   "title": "School Profile Archive",
+   "description": "School profiles and graduation data for universities and families.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Documents",
+    "head": [
+     "Document",
+     "Year",
+     "Format"
+    ],
+    "rows": [
+     [
+      "School Profile",
+      "2026–27",
+      "PDF"
+     ],
+     [
+      "Graduation Data",
+      "2026",
+      "PDF"
+     ]
+    ],
+    "note": "Upload via Media manager."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Annual profile (PDF)",
+     "Graduation data",
+     "Grading scale"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "School Profile Archive",
+   "description": "School profiles and graduation data for universities and families."
+  },
+  "cta": true,
+  "related": [
+   "academics/high-school",
+   "academics/high-school/counseling"
+  ]
+ },
+ {
+  "id": "page-academics-ib-ap",
+  "slug": "academics/ib-ap",
+  "title": "IB & AP",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Pathways",
+   "title": "IB & AP",
+   "description": "Two internationally recognized pathways — choose the one that fits your learner.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Compare",
+    "items": [
+     {
+      "image": "assets/images/academics/high-school.svg",
+      "title": "IB Diploma",
+      "text": "Holistic diploma with TOK, EE, CAS.",
+      "url": "academics/ib-ap/ib-diploma/"
+     },
+     {
+      "image": "assets/images/academics/academics.svg",
+      "title": "Advanced Placement",
+      "text": "College-level courses in your strengths.",
+      "url": "academics/ib-ap/advanced-placement/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "IB Diploma Programme",
+     "Advanced Placement",
+     "Counseling to choose well"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "IB & AP",
+   "description": "Two internationally recognized pathways — choose the one that fits your learner."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-ib-ap-ib-diploma",
+  "slug": "academics/ib-ap/ib-diploma",
+  "title": "IB Diploma Programme",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "IB",
+   "title": "IB Diploma Programme",
+   "description": "A rigorous, holistic diploma that develops thinkers who care.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "points",
+    "heading": "The IB core",
+    "items": [
+     "Theory of Knowledge",
+     "Extended Essay",
+     "Creativity, Activity, Service"
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Six subject groups",
+     "TOK & Extended Essay",
+     "Creativity, Activity, Service"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "IB Diploma Programme",
+   "description": "A rigorous, holistic diploma that develops thinkers who care."
+  },
+  "cta": true,
+  "related": [
+   "academics/ib-ap",
+   "academics/ib-ap/advanced-placement"
+  ]
+ },
+ {
+  "id": "page-academics-ib-ap-advanced-placement",
+  "slug": "academics/ib-ap/advanced-placement",
+  "title": "Advanced Placement",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "AP",
+   "title": "Advanced Placement",
+   "description": "College-level courses that let students go deep in their strengths.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample courses",
+    "head": [
+     "Subject",
+     "Level"
+    ],
+    "rows": [
+     [
+      "Calculus BC",
+      "AP"
+     ],
+     [
+      "Biology",
+      "AP"
+     ],
+     [
+      "English Literature",
+      "AP"
+     ],
+     [
+      "Computer Science A",
+      "AP"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "15+ AP courses",
+     "Mix with IB",
+     "Recognized worldwide"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Advanced Placement",
+   "description": "College-level courses that let students go deep in their strengths."
+  },
+  "cta": true,
+  "related": [
+   "academics/ib-ap",
+   "academics/ib-ap/ib-diploma"
+  ]
+ },
+ {
+  "id": "page-academics-student-support",
+  "slug": "academics/student-support",
+  "title": "Student Support",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Every learner",
+   "title": "Student Support",
+   "description": "Coordinated support so every student can access a challenging, joyful education.",
+   "image": "assets/images/academics/academics.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Services",
+    "items": [
+     {
+      "icon": "brain",
+      "title": "Learning Center",
+      "text": "Specialized support.",
+      "url": "academics/learning-center/"
+     },
+     {
+      "icon": "heart-handshake",
+      "title": "Counseling",
+      "text": "Wellbeing and guidance.",
+      "url": "academics/high-school/counseling/"
+     },
+     {
+      "icon": "languages",
+      "title": "ELL",
+      "text": "English language learning."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Learning specialists",
+     "Counselors and advisors",
+     "English language support"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Student Support",
+   "description": "Coordinated support so every student can access a challenging, joyful education."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-learning-center",
+  "slug": "academics/learning-center",
+  "title": "Learning Center",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Specialized support",
+   "title": "Learning Center",
+   "description": "An extension of student support for learners with moderate to significant needs.",
+   "image": "assets/images/academics/academics.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "Who we serve",
+    "body": [
+     "The Learning Center supports students with moderate to significant learning needs and global developmental delays, in partnership with families and teachers."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Individualized plans",
+     "Small-group and 1:1",
+     "Family partnership"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Learning Center",
+   "description": "An extension of student support for learners with moderate to significant needs."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-service-learning",
+  "slug": "academics/service-learning",
+  "title": "Service Learning",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Best for the world",
+   "title": "Service Learning",
+   "description": "Service is woven into every grade — learning that gives back to Jakarta and beyond.",
+   "image": "assets/images/academics/service.svg"
+  },
+  "sections": [
+   {
+    "type": "split",
+    "heading": "How it works",
+    "body": [
+     "Students identify needs with partners, act, and reflect — building empathy and agency alongside academic skills."
+    ],
+    "image": "assets/images/academics/service.svg",
+    "points": [
+     "Local partnerships",
+     "Student-led initiatives",
+     "Peduli grants"
+    ]
+   },
+   {
+    "type": "cards",
+    "heading": "Get involved",
+    "items": [
+     {
+      "icon": "hand-heart",
+      "title": "Peduli",
+      "text": "Our service arm.",
+      "url": "community/peduli/"
+     },
+     {
+      "icon": "users",
+      "title": "Partners",
+      "text": "Who we work with.",
+      "url": "community/service-partners/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Curriculum-linked service",
+     "Long-term partners",
+     "Student leadership"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Service Learning",
+   "description": "Service is woven into every grade — learning that gives back to Jakarta and beyond."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-jis-studio",
+  "slug": "academics/jis-studio",
+  "title": "Cakrawala Studio",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Signature program",
+   "title": "Cakrawala Studio",
+   "description": "Experiential, project-based learning that connects school to the real world.",
+   "image": "assets/images/academics/studio.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "In action",
+    "items": [
+     {
+      "image": "assets/images/academics/studio.svg",
+      "title": "Middle School Studio",
+      "text": "The Grades 6–8 pathway.",
+      "url": "academics/middle-school/jis-studio/"
+     },
+     {
+      "image": "assets/images/academics/middle-school.svg",
+      "title": "Projects",
+      "text": "What students ship.",
+      "url": "academics/middle-school/jis-studio/projects/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Middle School pathway",
+     "Real clients",
+     "Research, build, reflect"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Cakrawala Studio",
+   "description": "Experiential, project-based learning that connects school to the real world."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-global-online-academy",
+  "slug": "academics/global-online-academy",
+  "title": "Global Online Academy",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "GOA",
+   "title": "Global Online Academy",
+   "description": "Rigorous online courses that expand choice beyond our campus walls.",
+   "image": "assets/images/academics/academics.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "About GOA",
+    "body": [
+     "High School students take elective courses with peers around the world, mentored by Cakrawala faculty."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Small online seminars",
+     "Global classmates",
+     "Cakrawala mentors"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Global Online Academy",
+   "description": "Rigorous online courses that expand choice beyond our campus walls."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-academics-university-representatives",
+  "slug": "academics/university-representatives",
+  "title": "University Representatives",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Visit us",
+   "title": "University Representatives",
+   "description": "Meet admissions officers from universities around the world — on campus and online.",
+   "image": "assets/images/academics/academics.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Upcoming visits (sample)",
+    "head": [
+     "University",
+     "Country",
+     "Date"
+    ],
+    "rows": [
+     [
+      "Melbourne",
+      "Australia",
+      "12 Jan 2027"
+     ],
+     [
+      "Toronto",
+      "Canada",
+      "19 Jan 2027"
+     ],
+     [
+      "NUS",
+      "Singapore",
+      "26 Jan 2027"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "100+ visits yearly",
+     "Open to families",
+     "Schedule via counseling"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "University Representatives",
+   "description": "Meet admissions officers from universities around the world — on campus and online."
+  },
+  "cta": true,
+  "related": [
+   "academics",
+   "academics/early-years",
+   "academics/elementary"
+  ]
+ },
+ {
+  "id": "page-arts",
+  "slug": "arts",
+  "title": "Arts",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Create",
+   "title": "Arts",
+   "description": "From gamelan to black-box theatre, every student can make, perform, and exhibit.",
+   "image": "assets/images/activities/arts.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Pathways",
+    "items": [
+     {
+      "icon": "palette",
+      "title": "Visual Arts",
+      "text": "Studio art EY–HS."
+     },
+     {
+      "icon": "music",
+      "title": "Music",
+      "text": "Gamelan, band, choir."
+     },
+     {
+      "icon": "drama",
+      "title": "Theatre",
+      "text": "Acting and design."
+     },
+     {
+      "icon": "clapperboard",
+      "title": "Film",
+      "text": "Storytelling with a camera."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Visual art, music, theatre, film",
+     "Ensembles and productions",
+     "Exhibitions and showcases"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Arts",
+   "description": "From gamelan to black-box theatre, every student can make, perform, and exhibit."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Seni",
+    "hero": {
+     "description": "Dari gamelan hingga teater black-box, setiap siswa bisa berkarya, tampil, dan berpameran."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-athletics",
+  "slug": "athletics",
+  "title": "Athletics",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Compete",
+   "title": "Athletics",
+   "description": "Twelve sports, forty-plus teams — fitness, teamwork, and fun come first.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Sports",
+    "items": [
+     {
+      "icon": "waves",
+      "title": "Aquatics",
+      "text": "Swim teams.",
+      "url": "jis-academy/sports/aquatics/"
+     },
+     {
+      "icon": "circle-dot",
+      "title": "Basketball",
+      "text": "U10–varsity.",
+      "url": "jis-academy/sports/basketball/"
+     },
+     {
+      "icon": "goal",
+      "title": "Soccer",
+      "text": "Our largest program.",
+      "url": "jis-academy/sports/soccer/"
+     },
+     {
+      "icon": "trophy",
+      "title": "All sports",
+      "text": "See all 12.",
+      "url": "jis-academy/sports/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "cards",
+    "heading": "Facilities",
+    "items": [
+     {
+      "image": "assets/images/activities/athletics.svg",
+      "title": "Tennis Courts",
+      "text": "Book community courts.",
+      "url": "athletics/tennis-courts/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "U10 to varsity",
+     "IASAS and local leagues",
+     "Qualified coaches"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Athletics",
+   "description": "Twelve sports, forty-plus teams — fitness, teamwork, and fun come first."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Olahraga",
+    "hero": {
+     "description": "Dua belas olahraga, empat puluh lebih tim — kebugaran, kerja sama, dan kesenangan utama."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-athletics-tennis-courts",
+  "slug": "athletics/tennis-courts",
+  "title": "Tennis Courts",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Facilities",
+   "title": "Tennis Courts",
+   "description": "Community tennis courts for school programs and public hire.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Booking",
+    "items": [
+     {
+      "icon": "calendar-check",
+      "title": "How to book",
+      "text": "Rates and slots.",
+      "url": "community/facilities-hire/"
+     },
+     {
+      "icon": "user",
+      "title": "Coaching",
+      "text": "Private and group.",
+      "url": "jis-academy/sports/tennis/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Floodlit hard courts",
+     "Coaching available",
+     "Book via facilities hire"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Tennis Courts",
+   "description": "Community tennis courts for school programs and public hire."
+  },
+  "cta": true,
+  "related": [
+   "athletics"
+  ]
+ },
+ {
+  "id": "page-activities",
+  "slug": "activities",
+  "title": "Activities",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Explore",
+   "title": "Activities",
+   "description": "One hundred plus clubs — student-led where possible, for every curiosity.",
+   "image": "assets/images/activities/activities.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Popular clubs",
+    "items": [
+     {
+      "icon": "bot",
+      "title": "Robotics",
+      "text": "Build and compete."
+     },
+     {
+      "icon": "mic",
+      "title": "Debate & MUN",
+      "text": "Argue well, listen better."
+     },
+     {
+      "icon": "leaf",
+      "title": "Conservation",
+      "text": "Care for the planet."
+     },
+     {
+      "icon": "chef-hat",
+      "title": "Cooking",
+      "text": "Flavors of Indonesia."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Academic, creative, service clubs",
+     "Student leadership",
+     "Something for everyone"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Activities",
+   "description": "One hundred plus clubs — student-led where possible, for every curiosity."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Kegiatan",
+    "hero": {
+     "description": "Seratus lebih klub — dipimpin siswa bila memungkinkan, untuk setiap rasa ingin tahu."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-iasas",
+  "slug": "iasas",
+  "title": "IASAS",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Regional competition",
+   "title": "IASAS",
+   "description": "The Interscholastic Association of Southeast Asian Schools — our regional league.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "About IASAS",
+    "body": [
+     "IASAS brings schools across Southeast Asia together for seasonal tournaments and festivals. Cakrawala hosts and travels with pride."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Member since 1981",
+     "Sports, music, art, debate",
+     "Hosted on rotation"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "IASAS",
+   "description": "The Interscholastic Association of Southeast Asian Schools — our regional league."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-jis-academy",
+  "slug": "jis-academy",
+  "title": "Cakrawala Academy",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Beyond the school day",
+   "title": "Cakrawala Academy",
+   "description": "After-school and holiday programs opening our facilities to the wider community.",
+   "image": "assets/images/activities/academy.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Programs",
+    "items": [
+     {
+      "image": "assets/images/activities/academy.svg",
+      "title": "Activities",
+      "text": "Creative and academic clubs.",
+      "url": "jis-academy/activities/"
+     },
+     {
+      "image": "assets/images/activities/athletics.svg",
+      "title": "Sports",
+      "text": "12 sports programs.",
+      "url": "jis-academy/sports/"
+     },
+     {
+      "image": "assets/images/homepage/hero-3.svg",
+      "title": "Holiday Programs",
+      "text": "Camps during breaks.",
+      "url": "jis-academy/holiday-programs/"
+     },
+     {
+      "image": "assets/images/community/community.svg",
+      "title": "Adult Activities",
+      "text": "Classes for grown-ups.",
+      "url": "jis-academy/adult-activities/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Open to the public",
+     "Sports, arts, academics",
+     "Holiday camps and adult classes"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Cakrawala Academy",
+   "description": "After-school and holiday programs opening our facilities to the wider community."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-jis-academy-activities",
+  "slug": "jis-academy/activities",
+  "title": "Academy Activities",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "After school",
+   "title": "Academy Activities",
+   "description": "Creative and academic enrichment for students and the community.",
+   "image": "assets/images/activities/academy.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample activities",
+    "head": [
+     "Activity",
+     "Ages",
+     "Day"
+    ],
+    "rows": [
+     [
+      "Junior Coding",
+      "7–10",
+      "Tue"
+     ],
+     [
+      "Studio Art",
+      "9–13",
+      "Wed"
+     ],
+     [
+      "Gamelan",
+      "11+",
+      "Thu"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Coding, art, music",
+     "Small groups",
+     "Term-based enrollment"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Academy Activities",
+   "description": "Creative and academic enrichment for students and the community."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy",
+   "jis-academy/sports",
+   "jis-academy/holiday-programs"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports",
+  "slug": "jis-academy/sports",
+  "title": "Academy Sports",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "12 programs",
+   "title": "Academy Sports",
+   "description": "Community sports from learn-to-swim to competitive squads.",
+   "image": "assets/images/activities/academy.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Choose a sport",
+    "items": [
+     {
+      "icon": "waves",
+      "title": "Aquatics",
+      "text": "Swim",
+      "url": "jis-academy/sports/aquatics/"
+     },
+     {
+      "icon": "waves",
+      "title": "Badminton",
+      "text": "Shuttle",
+      "url": "jis-academy/sports/badminton/"
+     },
+     {
+      "icon": "waves",
+      "title": "Baseball & Softball",
+      "text": "Diamond",
+      "url": "jis-academy/sports/baseball-softball/"
+     },
+     {
+      "icon": "waves",
+      "title": "Basketball",
+      "text": "Hoops",
+      "url": "jis-academy/sports/basketball/"
+     },
+     {
+      "icon": "waves",
+      "title": "Gymnastics",
+      "text": "Floor & beam",
+      "url": "jis-academy/sports/gymnastics/"
+     },
+     {
+      "icon": "waves",
+      "title": "Rugby",
+      "text": "Contact",
+      "url": "jis-academy/sports/rugby/"
+     },
+     {
+      "icon": "waves",
+      "title": "Soccer",
+      "text": "The world's game",
+      "url": "jis-academy/sports/soccer/"
+     },
+     {
+      "icon": "waves",
+      "title": "Taekwondo",
+      "text": "Martial art",
+      "url": "jis-academy/sports/taekwondo/"
+     },
+     {
+      "icon": "waves",
+      "title": "Tennis",
+      "text": "Racquet",
+      "url": "jis-academy/sports/tennis/"
+     },
+     {
+      "icon": "waves",
+      "title": "Track & Field",
+      "text": "Run, jump, throw",
+      "url": "jis-academy/sports/track-field/"
+     },
+     {
+      "icon": "waves",
+      "title": "Volleyball",
+      "text": "Net",
+      "url": "jis-academy/sports/volleyball/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Open each term",
+     "Qualified coaches",
+     "Ages 4 to adult"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Academy Sports",
+   "description": "Community sports from learn-to-swim to competitive squads."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy",
+   "jis-academy/activities",
+   "jis-academy/holiday-programs"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-aquatics",
+  "slug": "jis-academy/sports/aquatics",
+  "title": "Aquatics",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Aquatics",
+   "description": "From learn-to-swim to competitive squads in our 25m pool.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/aquatics"
+   }
+  ],
+  "seo": {
+   "title": "Aquatics",
+   "description": "From learn-to-swim to competitive squads in our 25m pool."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/badminton",
+   "jis-academy/sports/baseball-softball"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-badminton",
+  "slug": "jis-academy/sports/badminton",
+  "title": "Badminton",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Badminton",
+   "description": "Fast feet and sharp reflexes — Indonesia's favorite sport.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/badminton"
+   }
+  ],
+  "seo": {
+   "title": "Badminton",
+   "description": "Fast feet and sharp reflexes — Indonesia's favorite sport."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/baseball-softball"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-baseball-softball",
+  "slug": "jis-academy/sports/baseball-softball",
+  "title": "Baseball & Softball",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Baseball & Softball",
+   "description": "Bat, ball, and teamwork on the diamond.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/baseball-softball"
+   }
+  ],
+  "seo": {
+   "title": "Baseball & Softball",
+   "description": "Bat, ball, and teamwork on the diamond."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-basketball",
+  "slug": "jis-academy/sports/basketball",
+  "title": "Basketball",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Basketball",
+   "description": "Boys and girls teams from U10 to varsity.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/basketball"
+   }
+  ],
+  "seo": {
+   "title": "Basketball",
+   "description": "Boys and girls teams from U10 to varsity."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-gymnastics",
+  "slug": "jis-academy/sports/gymnastics",
+  "title": "Gymnastics",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Gymnastics",
+   "description": "Strength, balance, and confidence.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/gymnastics"
+   }
+  ],
+  "seo": {
+   "title": "Gymnastics",
+   "description": "Strength, balance, and confidence."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-rugby",
+  "slug": "jis-academy/sports/rugby",
+  "title": "Rugby",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Rugby",
+   "description": "Safe, structured contact rugby.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/rugby"
+   }
+  ],
+  "seo": {
+   "title": "Rugby",
+   "description": "Safe, structured contact rugby."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-soccer",
+  "slug": "jis-academy/sports/soccer",
+  "title": "Soccer",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Soccer",
+   "description": "Our largest program — fun first, then competition.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/soccer"
+   }
+  ],
+  "seo": {
+   "title": "Soccer",
+   "description": "Our largest program — fun first, then competition."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-taekwondo",
+  "slug": "jis-academy/sports/taekwondo",
+  "title": "Taekwondo",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Taekwondo",
+   "description": "Discipline, respect, and skill.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/taekwondo"
+   }
+  ],
+  "seo": {
+   "title": "Taekwondo",
+   "description": "Discipline, respect, and skill."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-tennis",
+  "slug": "jis-academy/sports/tennis",
+  "title": "Tennis",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Tennis",
+   "description": "Private, group, and squad training.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/tennis"
+   }
+  ],
+  "seo": {
+   "title": "Tennis",
+   "description": "Private, group, and squad training."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-track-field",
+  "slug": "jis-academy/sports/track-field",
+  "title": "Track & Field",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Track & Field",
+   "description": "Sprints, distance, jumps, and throws.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/track-field"
+   }
+  ],
+  "seo": {
+   "title": "Track & Field",
+   "description": "Sprints, distance, jumps, and throws."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-sports-volleyball",
+  "slug": "jis-academy/sports/volleyball",
+  "title": "Volleyball",
+  "status": "published",
+  "language": "en",
+  "template": "program",
+  "hero": {
+   "kicker": "Academy sports",
+   "title": "Volleyball",
+   "description": "Indoor teams with strong community spirit.",
+   "image": "assets/images/activities/athletics.svg"
+  },
+  "sections": [
+   {
+    "type": "sportFacts",
+    "ref": "jis-academy/sports/volleyball"
+   }
+  ],
+  "seo": {
+   "title": "Volleyball",
+   "description": "Indoor teams with strong community spirit."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy/sports",
+   "jis-academy/sports/aquatics",
+   "jis-academy/sports/badminton"
+  ]
+ },
+ {
+  "id": "page-jis-academy-holiday-programs",
+  "slug": "jis-academy/holiday-programs",
+  "title": "Holiday Programs",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "School breaks",
+   "title": "Holiday Programs",
+   "description": "Camps that keep kids active, creative, and curious during the holidays.",
+   "image": "assets/images/activities/academy.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample camps",
+    "head": [
+     "Camp",
+     "Ages",
+     "Week"
+    ],
+    "rows": [
+     [
+      "STEM Builders",
+      "7–12",
+      "Dec 14–18"
+     ],
+     [
+      "Sports Sampler",
+      "4–10",
+      "Dec 14–18"
+     ],
+     [
+      "Art Studio",
+      "6–14",
+      "Jan 4–8"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Weekly themed camps",
+     "Ages 4–14",
+     "Full and half days"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Holiday Programs",
+   "description": "Camps that keep kids active, creative, and curious during the holidays."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy",
+   "jis-academy/activities",
+   "jis-academy/sports"
+  ]
+ },
+ {
+  "id": "page-jis-academy-adult-activities",
+  "slug": "jis-academy/adult-activities",
+  "title": "Adult Activities",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "For grown-ups",
+   "title": "Adult Activities",
+   "description": "Evening and weekend classes for parents and the community.",
+   "image": "assets/images/activities/academy.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample classes",
+    "head": [
+     "Class",
+     "Day",
+     "Time"
+    ],
+    "rows": [
+     [
+      "Bahasa Indonesia",
+      "Tue",
+      "18:30"
+     ],
+     [
+      "Yoga",
+      "Wed",
+      "18:00"
+     ],
+     [
+      "Tennis Clinic",
+      "Sat",
+      "08:00"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Language and fitness",
+     "Open to the public",
+     "Community rates"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Adult Activities",
+   "description": "Evening and weekend classes for parents and the community."
+  },
+  "cta": true,
+  "related": [
+   "jis-academy",
+   "jis-academy/activities",
+   "jis-academy/sports"
+  ]
+ },
+ {
+  "id": "page-community",
+  "slug": "community",
+  "title": "Community",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Together",
+   "title": "Community",
+   "description": "Parents, alumni, and partners — one community that makes Cakrawala what it is.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Get connected",
+    "items": [
+     {
+      "icon": "users",
+      "title": "Alumni",
+      "text": "A global network.",
+      "url": "community/alumni/"
+     },
+     {
+      "icon": "home",
+      "title": "Parents",
+      "text": "Join the PTA.",
+      "url": "community/parent-organizations/"
+     },
+     {
+      "icon": "hand-heart",
+      "title": "Peduli",
+      "text": "Our service arm.",
+      "url": "community/peduli/"
+     },
+     {
+      "icon": "calendar-days",
+      "title": "Events",
+      "text": "What's on.",
+      "url": "community/events/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Active parent groups",
+     "Alumni in 40+ countries",
+     "Service partners across Jakarta"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Community",
+   "description": "Parents, alumni, and partners — one community that makes Cakrawala what it is."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Komunitas",
+    "hero": {
+     "description": "Orang tua, alumni, dan mitra — satu komunitas yang menjadikan Cakrawala."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-community-alumni",
+  "slug": "community/alumni",
+  "title": "Alumni",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Global network",
+   "title": "Alumni",
+   "description": "Graduates lead in technology, health, journalism, the arts, and more — worldwide.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Stay connected",
+    "items": [
+     {
+      "image": "assets/images/blog/blog-4.svg",
+      "title": "Alumni News",
+      "text": "Graduate stories.",
+      "url": "community/alumni/dragon-news/"
+     },
+     {
+      "image": "assets/images/giving/giving.svg",
+      "title": "Give back",
+      "text": "Support the next generation.",
+      "url": "giving/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Alumni in 40+ countries",
+     "Mentorship and reunions",
+     "Give back"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Alumni",
+   "description": "Graduates lead in technology, health, journalism, the arts, and more — worldwide."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/parent-organizations",
+   "community/scholarships"
+  ]
+ },
+ {
+  "id": "page-community-alumni-dragon-news",
+  "slug": "community/alumni/dragon-news",
+  "title": "Alumni News",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Stories",
+   "title": "Alumni News",
+   "description": "News and stories from Cakrawala alumni around the world.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "posts",
+    "limit": 3,
+    "heading": "Alumni stories"
+   }
+  ],
+  "seo": {
+   "title": "Alumni News",
+   "description": "News and stories from Cakrawala alumni around the world."
+  },
+  "cta": true,
+  "related": [
+   "community/alumni"
+  ]
+ },
+ {
+  "id": "page-community-parent-organizations",
+  "slug": "community/parent-organizations",
+  "title": "Parent Organizations",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Get involved",
+   "title": "Parent Organizations",
+   "description": "Choosing a school means choosing a community — join the PTA and make lifelong friends.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Join in",
+    "items": [
+     {
+      "icon": "party-popper",
+      "title": "Events",
+      "text": "Celebrate with us.",
+      "url": "community/events/"
+     },
+     {
+      "icon": "hand-helping",
+      "title": "Volunteer",
+      "text": "Share your talents."
+     },
+     {
+      "icon": "coffee",
+      "title": "New families",
+      "text": "Coffee mornings each term."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Division parent groups",
+     "Events and volunteering",
+     "New family welcome"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Parent Organizations",
+   "description": "Choosing a school means choosing a community — join the PTA and make lifelong friends."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/scholarships"
+  ]
+ },
+ {
+  "id": "page-community-scholarships",
+  "slug": "community/scholarships",
+  "title": "Scholarships",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Access",
+   "title": "Scholarships",
+   "description": "Need-aware scholarships help talented students join and thrive.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Support access",
+    "items": [
+     {
+      "icon": "hand-heart",
+      "title": "Scholarship Fund",
+      "text": "Give to open doors.",
+      "url": "giving/scholarship-fund/"
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Funded by the Scholarship Fund",
+     "Confidential application",
+     "Renewable"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Scholarships",
+   "description": "Need-aware scholarships help talented students join and thrive."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-service-partners",
+  "slug": "community/service-partners",
+  "title": "Service Partners",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Together for Jakarta",
+   "title": "Service Partners",
+   "description": "We partner with local organizations for lasting, mutual change.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample partners",
+    "head": [
+     "Partner",
+     "Focus",
+     "Since"
+    ],
+    "rows": [
+     [
+      "Yayasan Baca",
+      "Literacy",
+      "2012"
+     ],
+     [
+      "Sehat Bersama",
+      "Health",
+      "2015"
+     ],
+     [
+      "Hijau Kota",
+      "Environment",
+      "2018"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Long-term partnerships",
+     "Student-led projects",
+     "Peduli grants"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Service Partners",
+   "description": "We partner with local organizations for lasting, mutual change."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-peduli",
+  "slug": "community/peduli",
+  "title": "Peduli",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Our service arm",
+   "title": "Peduli",
+   "description": "Peduli channels community generosity into student-led service projects.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "campaign",
+    "heading": "Peduli annual appeal",
+    "goal": 1500000000,
+    "raised": 825000000,
+    "description": "Fund student-led service across Jakarta."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Grants for student initiatives",
+     "Community fundraising",
+     "Transparent reporting"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Peduli",
+   "description": "Peduli channels community generosity into student-led service projects."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-health",
+  "slug": "community/health",
+  "title": "Health & Wellbeing",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Care",
+   "title": "Health & Wellbeing",
+   "description": "Nurses, counselors, and health education keep our community well.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Wellbeing team",
+    "items": [
+     {
+      "icon": "stethoscope",
+      "title": "Nurses",
+      "text": "On campus daily."
+     },
+     {
+      "icon": "heart-handshake",
+      "title": "Counselors",
+      "text": "Confidential support."
+     },
+     {
+      "icon": "apple",
+      "title": "Healthy habits",
+      "text": "Nutrition and movement."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Campus nurses daily",
+     "Counselors per division",
+     "Health education"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Health & Wellbeing",
+   "description": "Nurses, counselors, and health education keep our community well."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-transportation",
+  "slug": "community/transportation",
+  "title": "Transportation",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Getting here",
+   "title": "Transportation",
+   "description": "Safe, supervised bus routes across South and Central Jakarta.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Sample routes",
+    "head": [
+     "Route",
+     "Area",
+     "Pickup"
+    ],
+    "rows": [
+     [
+      "R1",
+      "Kebayoran",
+      "06:45"
+     ],
+     [
+      "R2",
+      "Pondok Indah",
+      "06:40"
+     ],
+     [
+      "R3",
+      "Kemang",
+      "06:50"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "GPS-tracked buses",
+     "Trained monitors",
+     "Routes reviewed each term"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Transportation",
+   "description": "Safe, supervised bus routes across South and Central Jakarta."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-events",
+  "slug": "community/events",
+  "title": "Events",
+  "status": "published",
+  "language": "en",
+  "template": "event-list",
+  "hero": {
+   "kicker": "What's on",
+   "title": "Events",
+   "description": "Celebrations, talks, showcases, and fairs — everyone is welcome.",
+   "image": "assets/images/community/events.svg"
+  },
+  "sections": [],
+  "seo": {
+   "title": "Events",
+   "description": "Celebrations, talks, showcases, and fairs — everyone is welcome."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-innovative-schools",
+  "slug": "community/innovative-schools",
+  "title": "Innovative Schools",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Sharing practice",
+   "title": "Innovative Schools",
+   "description": "Our faculty work alongside local public-school educators to share practice.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "About",
+    "body": [
+     "Innovative Schools pairs Cakrawala educators with state schools for workshops, coaching, and shared projects — learning flows both ways."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Teacher workshops",
+     "Resource sharing",
+     "Mutual learning"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Innovative Schools",
+   "description": "Our faculty work alongside local public-school educators to share practice."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-facilities-hire",
+  "slug": "community/facilities-hire",
+  "title": "Facilities Hire",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Rent our spaces",
+   "title": "Facilities Hire",
+   "description": "Courts, pool, and auditorium available to the community outside school hours.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Spaces & rates (sample)",
+    "head": [
+     "Space",
+     "Rate",
+     "Hours"
+    ],
+    "rows": [
+     [
+      "Tennis court",
+      "IDR 150k/hr",
+      "16:00–21:00"
+     ],
+     [
+      "Pool lane",
+      "IDR 100k/hr",
+      "16:00–20:00"
+     ],
+     [
+      "Auditorium",
+      "On request",
+      "Weekends"
+     ]
+    ],
+    "note": "Illustrative."
+   },
+   {
+    "type": "form",
+    "formId": "contact"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Courts and pool",
+     "500-seat auditorium",
+     "Community rates"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Facilities Hire",
+   "description": "Courts, pool, and auditorium available to the community outside school hours."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-community-moving-to-city",
+  "slug": "community/moving-to-city",
+  "title": "Moving to Jakarta",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Relocation",
+   "title": "Moving to Jakarta",
+   "description": "Practical guidance for families relocating to Jakarta.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Settling in",
+    "items": [
+     {
+      "title": "Before arrival",
+      "text": "Housing, visas, paperwork."
+     },
+     {
+      "title": "First weeks",
+      "text": "Banking and transport."
+     },
+     {
+      "title": "Feel at home",
+      "text": "PTA welcome and events."
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Neighborhood guides",
+     "Settling-in checklist",
+     "New family welcome"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Moving to Jakarta",
+   "description": "Practical guidance for families relocating to Jakarta."
+  },
+  "cta": true,
+  "related": [
+   "community",
+   "community/alumni",
+   "community/parent-organizations"
+  ]
+ },
+ {
+  "id": "page-giving",
+  "slug": "giving",
+  "title": "Giving",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Invest in learners",
+   "title": "Giving",
+   "description": "Your generosity funds scholarships, learning spaces, and service — for the next 75 years.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "cards",
+    "heading": "Ways to give",
+    "items": [
+     {
+      "image": "assets/images/about/anniversary.svg",
+      "title": "Anniversary Campaign",
+      "text": "Our landmark campaign.",
+      "url": "giving/anniversary-campaign/"
+     },
+     {
+      "image": "assets/images/giving/giving.svg",
+      "title": "Annual Fund",
+      "text": "Everyday excellence.",
+      "url": "giving/annual-fund/"
+     },
+     {
+      "image": "assets/images/community/community.svg",
+      "title": "Scholarship Fund",
+      "text": "Open doors for talent.",
+      "url": "giving/scholarship-fund/"
+     }
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Annual & Scholarship Funds",
+     "Anniversary Campaign",
+     "Transparent impact"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Giving",
+   "description": "Your generosity funds scholarships, learning spaces, and service — for the next 75 years."
+  },
+  "cta": true,
+  "translations": {
+   "id": {
+    "title": "Donasi",
+    "hero": {
+     "description": "Kemurahan hati Anda mendanai beasiswa, ruang belajar, dan servis — untuk 75 tahun berikutnya."
+    }
+   }
+  },
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-giving-anniversary-campaign",
+  "slug": "giving/anniversary-campaign",
+  "title": "75th Anniversary Campaign",
+  "status": "published",
+  "language": "en",
+  "template": "campaign",
+  "hero": {
+   "kicker": "1951–2026",
+   "title": "75th Anniversary Campaign",
+   "description": "A landmark campaign for scholarships and learning spaces.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "campaign",
+    "heading": "Progress",
+    "goal": 7500000000,
+    "raised": 4275000000,
+    "description": "Every gift widens a horizon."
+   },
+   {
+    "type": "form",
+    "formId": "donation-interest"
+   }
+  ],
+  "seo": {
+   "title": "75th Anniversary Campaign",
+   "description": "A landmark campaign for scholarships and learning spaces."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/people-of-campus",
+   "giving/impact"
+  ]
+ },
+ {
+  "id": "page-giving-people-of-campus",
+  "slug": "giving/people-of-campus",
+  "title": "People of Cakrawala",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Stories",
+   "title": "People of Cakrawala",
+   "description": "The students, teachers, and families your generosity supports.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "quote",
+    "text": "My scholarship didn't just pay fees — it told me I belonged.",
+    "name": "Aisha, Grade 11",
+    "role": "Scholarship recipient"
+   },
+   {
+    "type": "quote",
+    "text": "Teaching here means being part of a community that cares deeply.",
+    "name": "Mr. Dan",
+    "role": "Faculty"
+   }
+  ],
+  "seo": {
+   "title": "People of Cakrawala",
+   "description": "The students, teachers, and families your generosity supports."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/anniversary-campaign",
+   "giving/impact"
+  ]
+ },
+ {
+  "id": "page-giving-impact",
+  "slug": "giving/impact",
+  "title": "Our Impact",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Transparency",
+   "title": "Our Impact",
+   "description": "Where gifts go and what they change — reported openly each year.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "stats",
+    "heading": "Impact (illustrative)",
+    "items": [
+     {
+      "value": "120",
+      "label": "Scholarships"
+     },
+     {
+      "value": "35",
+      "label": "Service projects"
+     },
+     {
+      "value": "8",
+      "label": "Spaces renewed"
+     },
+     {
+      "value": "100%",
+      "label": "Gifts to programs"
+     }
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Our Impact",
+   "description": "Where gifts go and what they change — reported openly each year."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/anniversary-campaign",
+   "giving/people-of-campus"
+  ]
+ },
+ {
+  "id": "page-giving-annual-fund",
+  "slug": "giving/annual-fund",
+  "title": "Annual Fund",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Everyday excellence",
+   "title": "Annual Fund",
+   "description": "Unrestricted gifts powering teaching, arts, athletics, and service daily.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "campaign",
+    "heading": "This year",
+    "goal": 2000000000,
+    "raised": 1150000000,
+    "description": "Small gifts, joined, do big things."
+   },
+   {
+    "type": "form",
+    "formId": "donation-interest"
+   }
+  ],
+  "seo": {
+   "title": "Annual Fund",
+   "description": "Unrestricted gifts powering teaching, arts, athletics, and service daily."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/anniversary-campaign",
+   "giving/people-of-campus"
+  ]
+ },
+ {
+  "id": "page-giving-scholarship-fund",
+  "slug": "giving/scholarship-fund",
+  "title": "Scholarship Fund",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Open doors",
+   "title": "Scholarship Fund",
+   "description": "Gifts that bring talented students to Cakrawala regardless of means.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "campaign",
+    "heading": "Scholarship Fund",
+    "goal": 3000000000,
+    "raised": 1620000000,
+    "description": "Talent is everywhere; opportunity should be too."
+   },
+   {
+    "type": "form",
+    "formId": "donation-interest"
+   }
+  ],
+  "seo": {
+   "title": "Scholarship Fund",
+   "description": "Gifts that bring talented students to Cakrawala regardless of means."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/anniversary-campaign",
+   "giving/people-of-campus"
+  ]
+ },
+ {
+  "id": "page-giving-donate",
+  "slug": "giving/donate",
+  "title": "Donate",
+  "status": "published",
+  "language": "en",
+  "template": "form",
+  "hero": {
+   "kicker": "Give now",
+   "title": "Donate",
+   "description": "Express interest and our giving team will guide you through secure options.",
+   "image": "assets/images/giving/giving.svg"
+  },
+  "sections": [
+   {
+    "type": "form",
+    "formId": "donation-interest"
+   },
+   {
+    "type": "text",
+    "heading": "Other ways",
+    "body": [
+     "Bank transfer, matching gifts, and planned giving are available. This static site does not process payments — the team arranges a secure channel."
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Donate",
+   "description": "Express interest and our giving team will guide you through secure options."
+  },
+  "cta": true,
+  "related": [
+   "giving",
+   "giving/anniversary-campaign",
+   "giving/people-of-campus"
+  ]
+ },
+ {
+  "id": "page-why-school",
+  "slug": "why-school",
+  "title": "Why Cakrawala",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Our difference",
+   "title": "Why Cakrawala",
+   "description": "A Jakarta community where every learner is known, challenged, and cared for.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "stats",
+    "background": "dark",
+    "heading": "The difference",
+    "items": [
+     {
+      "value": "75",
+      "label": "Years"
+     },
+     {
+      "value": "60+",
+      "label": "Nationalities"
+     },
+     {
+      "value": "12",
+      "label": "Sports"
+     },
+     {
+      "value": "100+",
+      "label": "Clubs"
+     }
+    ]
+   },
+   {
+    "type": "cards",
+    "heading": "What families value",
+    "items": [
+     {
+      "icon": "heart",
+      "title": "Belonging",
+      "text": "Every child known."
+     },
+     {
+      "icon": "book-open",
+      "title": "Rigor",
+      "text": "Challenge with support."
+     },
+     {
+      "icon": "hand-heart",
+      "title": "Purpose",
+      "text": "Best for the world."
+     }
+    ],
+    "style": "icon"
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "75 years of trust",
+     "IB and AP under one roof",
+     "Service in every grade"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Why Cakrawala",
+   "description": "A Jakarta community where every learner is known, challenged, and cared for."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-contact",
+  "slug": "contact",
+  "title": "Contact",
+  "status": "published",
+  "language": "en",
+  "template": "contact",
+  "hero": {
+   "kicker": "Reach us",
+   "title": "Contact",
+   "description": "Questions, visits, or a hello — we would love to hear from you.",
+   "image": "assets/images/community/community.svg"
+  },
+  "sections": [
+   {
+    "type": "contact",
+    "heading": "Get in touch"
+   },
+   {
+    "type": "form",
+    "formId": "contact"
+   }
+  ],
+  "seo": {
+   "title": "Contact",
+   "description": "Questions, visits, or a hello — we would love to hear from you."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-privacy-policy",
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Your data",
+   "title": "Privacy Policy",
+   "description": "How Cakrawala collects, uses, and protects personal information.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "Summary",
+    "body": [
+     "This static demonstration site does not store visitor submissions in public files. Forms use mailto, external-service, or local-download modes as described on each form. Replace with your approved policy before launch."
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Privacy Policy",
+   "description": "How Cakrawala collects, uses, and protects personal information."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-site-map",
+  "slug": "site-map",
+  "title": "Site Map",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Find everything",
+   "title": "Site Map",
+   "description": "Every page on this site, organized by section.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "links",
+    "heading": "Sections",
+    "items": [
+     {
+      "icon": "info",
+      "title": "About",
+      "text": "Our school.",
+      "url": "about/"
+     },
+     {
+      "icon": "door-open",
+      "title": "Admissions",
+      "text": "Join us.",
+      "url": "admissions/"
+     },
+     {
+      "icon": "book-open",
+      "title": "Academics",
+      "text": "Learning.",
+      "url": "academics/"
+     },
+     {
+      "icon": "palette",
+      "title": "Arts & Activities",
+      "text": "Explore.",
+      "url": "arts/"
+     },
+     {
+      "icon": "users",
+      "title": "Community",
+      "text": "Together.",
+      "url": "community/"
+     },
+     {
+      "icon": "hand-heart",
+      "title": "Giving",
+      "text": "Give.",
+      "url": "giving/"
+     }
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Site Map",
+   "description": "Every page on this site, organized by section."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-accessibility",
+  "slug": "accessibility",
+  "title": "Accessibility",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "For everyone",
+   "title": "Accessibility",
+   "description": "Our commitment to an accessible website and campus.",
+   "image": "assets/images/about/about.svg"
+  },
+  "sections": [
+   {
+    "type": "text",
+    "heading": "Commitment",
+    "body": [
+     "We aim for WCAG 2.1 AA: keyboard navigation, visible focus, semantic headings, alt text, and reduced motion. Report barriers via the contact form."
+    ]
+   },
+   {
+    "type": "points",
+    "heading": "At a glance",
+    "items": [
+     "Keyboard navigable",
+     "Visible focus and contrast",
+     "Reduced-motion support"
+    ]
+   }
+  ],
+  "seo": {
+   "title": "Accessibility",
+   "description": "Our commitment to an accessible website and campus."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-university-acceptances",
+  "slug": "university-acceptances",
+  "title": "University Acceptances",
+  "status": "published",
+  "language": "en",
+  "template": "standard",
+  "hero": {
+   "kicker": "Class of 2026",
+   "title": "University Acceptances",
+   "description": "Where Cakrawala graduates go — across four continents.",
+   "image": "assets/images/academics/high-school.svg"
+  },
+  "sections": [
+   {
+    "type": "acceptances",
+    "heading": "Acceptances (illustrative)",
+    "description": "Sample data — manage via CMS."
+   },
+   {
+    "type": "stats",
+    "heading": "Matriculation",
+    "items": [
+     {
+      "value": "99%",
+      "label": "To university"
+     },
+     {
+      "value": "20+",
+      "label": "Countries"
+     },
+     {
+      "value": "100+",
+      "label": "Universities"
+     }
+    ]
+   }
+  ],
+  "seo": {
+   "title": "University Acceptances",
+   "description": "Where Cakrawala graduates go — across four continents."
+  },
+  "cta": true,
+  "related": [
+   "about",
+   "admissions",
+   "academics"
+  ]
+ },
+ {
+  "id": "page-news-blog",
+  "slug": "news/blog",
+  "title": "Blog",
+  "status": "published",
+  "language": "en",
+  "template": "blog-list",
+  "hero": {
+   "kicker": "Stories",
+   "title": "Blog",
+   "description": "Stories from our classrooms, community, and the world beyond.",
+   "image": "assets/images/blog/blog-1.svg"
+  },
+  "sections": [],
+  "seo": {
+   "title": "Blog",
+   "description": "Stories from our classrooms, community, and the world beyond."
+  },
+  "cta": true,
+  "related": []
+ },
+ {
+  "id": "page-news-blog-detail",
+  "slug": "news/blog/detail",
+  "title": "Article",
+  "status": "published",
+  "language": "en",
+  "template": "blog-detail",
+  "hero": {
+   "kicker": "Blog",
+   "title": "Article",
+   "description": "Read the full story.",
+   "image": "assets/images/blog/blog-1.svg"
+  },
+  "sections": [],
+  "seo": {
+   "title": "Article",
+   "description": "Read the full story."
+  },
+  "cta": false
+ },
+ {
+  "id": "page-community-events-detail",
+  "slug": "community/events/detail",
+  "title": "Event",
+  "status": "published",
+  "language": "en",
+  "template": "event-detail",
+  "hero": {
+   "kicker": "What's on",
+   "title": "Event",
+   "description": "Event details and registration.",
+   "image": "assets/images/community/events.svg"
+  },
+  "sections": [],
+  "seo": {
+   "title": "Event",
+   "description": "Event details and registration."
+  },
+  "cta": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "t-1",
+  "name": "Priya S.",
+  "role": {
+   "en": "Parent, Grade 3 & Grade 7",
+   "id": "Orang tua, Kelas 3 & 7"
+  },
+  "quote": {
+   "en": "Both my children are known here — not just as students, but as people.",
+   "id": "Kedua anak saya dikenal di sini — bukan hanya sebagai siswa, tetapi sebagai pribadi."
+  }
+ },
+ {
+  "id": "t-2",
+  "name": "Daniel K.",
+  "role": {
+   "en": "Alumnus, Class of 2015",
+   "id": "Alumni, Angkatan 2015"
+  },
+  "quote": {
+   "en": "Cakrawala taught me to ask better questions. That has shaped my whole career.",
+   "id": "Cakrawala mengajari saya bertanya lebih baik. Itu membentuk seluruh karier saya."
+  }
+ },
+ {
+  "id": "t-3",
+  "name": "Ms. Hartono",
+  "role": {
+   "en": "Elementary Principal",
+   "id": "Kepala SD"
+  },
+  "quote": {
+   "en": "Teaching here means being part of a community that cares deeply about every child.",
+   "id": "Mengajar di sini berarti menjadi bagian dari komunitas yang sangat peduli pada setiap anak."
+  }
+ },
+ {
+  "id": "t-4",
+  "name": "Aisha R.",
+  "role": {
+   "en": "Grade 11, Scholarship recipient",
+   "id": "Kelas 11, Penerima beasiswa"
+  },
+  "quote": {
+   "en": "My scholarship told me I belonged. Now I want to open that door for others.",
+   "id": "Beasiswa saya mengatakan saya termasuk. Kini saya ingin membuka pintu itu untuk orang lain."
+  }
+ },
+ {
+  "id": "t-5",
+  "name": "Budi & Sari",
+  "role": {
+   "en": "New family, 2026",
+   "id": "Keluarga baru, 2026"
+  },
+  "quote": {
+   "en": "We relocated from abroad and felt at home within a week — the PTA saw to that.",
+   "id": "Kami pindah dari luar negeri dan merasa seperti di rumah dalam seminggu — berkat PTA."
+  }
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "cat-learning",
+  "name": "Learning",
+  "slug": "learning"
+ },
+ {
+  "id": "cat-community",
+  "name": "Community",
+  "slug": "community"
+ },
+ {
+  "id": "cat-service",
+  "name": "Service",
+  "slug": "service"
+ },
+ {
+  "id": "cat-alumni",
+  "name": "Alumni",
+  "slug": "alumni"
+ }
+]

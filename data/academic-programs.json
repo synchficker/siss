@@ -1,0 +1,90 @@
+[
+ {
+  "id": "prog-ey",
+  "slug": "academics/early-years",
+  "name": "Early Years",
+  "ages": "3–6",
+  "grades": "Pre-K–K",
+  "classSize": "18",
+  "curriculum": "Inquiry & play",
+  "campus": "Pattimura",
+  "overview": "Play-based, inquiry-rich beginnings."
+ },
+ {
+  "id": "prog-es",
+  "slug": "academics/elementary",
+  "name": "Elementary",
+  "ages": "6–11",
+  "grades": "1–5",
+  "classSize": "22",
+  "curriculum": "Standards + inquiry",
+  "campus": "Pattimura",
+  "overview": "Strong foundations in literacy and numeracy."
+ },
+ {
+  "id": "prog-ms",
+  "slug": "academics/middle-school",
+  "name": "Middle School",
+  "ages": "11–14",
+  "grades": "6–8",
+  "classSize": "24",
+  "curriculum": "Interdisciplinary",
+  "campus": "Horizon",
+  "overview": "Connecting learning to real life."
+ },
+ {
+  "id": "prog-hs",
+  "slug": "academics/high-school",
+  "name": "High School",
+  "ages": "14–18",
+  "grades": "9–12",
+  "classSize": "24",
+  "curriculum": "IB / AP",
+  "campus": "Horizon",
+  "overview": "Choice and support for every aspiration."
+ },
+ {
+  "id": "prog-ib",
+  "slug": "academics/ib-ap/ib-diploma",
+  "name": "IB Diploma",
+  "ages": "16–18",
+  "grades": "11–12",
+  "classSize": "20",
+  "curriculum": "IB DP",
+  "campus": "Horizon",
+  "overview": "Holistic diploma with TOK, EE, CAS."
+ },
+ {
+  "id": "prog-ap",
+  "slug": "academics/ib-ap/advanced-placement",
+  "name": "Advanced Placement",
+  "ages": "15–18",
+  "grades": "10–12",
+  "classSize": "22",
+  "curriculum": "AP",
+  "campus": "Horizon",
+  "overview": "College-level courses in chosen strengths."
+ },
+ {
+  "id": "prog-studio",
+  "slug": "academics/jis-studio",
+  "name": "Cakrawala Studio",
+  "ages": "11–14",
+  "grades": "6–8",
+  "classSize": "20",
+  "curriculum": "Project-based",
+  "campus": "Horizon",
+  "overview": "Long-term, real-world projects."
+ },
+ {
+  "id": "prog-goa",
+  "slug": "academics/global-online-academy",
+  "name": "Global Online Academy",
+  "ages": "15–18",
+  "grades": "10–12",
+  "classSize": "16",
+  "curriculum": "GOA electives",
+  "campus": "Online + Horizon",
+  "overview": "Global online seminars."
+ }
+]

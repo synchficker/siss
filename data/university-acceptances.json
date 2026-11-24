@@ -1,0 +1,122 @@
+[
+ {
+  "id": "uni-0",
+  "university": "University of Melbourne",
+  "country": "Australia",
+  "students": 1
+ },
+ {
+  "id": "uni-1",
+  "university": "University of Sydney",
+  "country": "Australia",
+  "students": 2
+ },
+ {
+  "id": "uni-2",
+  "university": "University of Toronto",
+  "country": "Canada",
+  "students": 3
+ },
+ {
+  "id": "uni-3",
+  "university": "UBC",
+  "country": "Canada",
+  "students": 4
+ },
+ {
+  "id": "uni-4",
+  "university": "McGill University",
+  "country": "Canada",
+  "students": 1
+ },
+ {
+  "id": "uni-5",
+  "university": "NUS",
+  "country": "Singapore",
+  "students": 2
+ },
+ {
+  "id": "uni-6",
+  "university": "NTU",
+  "country": "Singapore",
+  "students": 3
+ },
+ {
+  "id": "uni-7",
+  "university": "University of Edinburgh",
+  "country": "UK",
+  "students": 4
+ },
+ {
+  "id": "uni-8",
+  "university": "UCL",
+  "country": "UK",
+  "students": 1
+ },
+ {
+  "id": "uni-9",
+  "university": "King's College London",
+  "country": "UK",
+  "students": 2
+ },
+ {
+  "id": "uni-10",
+  "university": "UC Berkeley",
+  "country": "USA",
+  "students": 3
+ },
+ {
+  "id": "uni-11",
+  "university": "UCLA",
+  "country": "USA",
+  "students": 4
+ },
+ {
+  "id": "uni-12",
+  "university": "University of Michigan",
+  "country": "USA",
+  "students": 1
+ },
+ {
+  "id": "uni-13",
+  "university": "NYU",
+  "country": "USA",
+  "students": 2
+ },
+ {
+  "id": "uni-14",
+  "university": "Boston University",
+  "country": "USA",
+  "students": 3
+ },
+ {
+  "id": "uni-15",
+  "university": "University of Amsterdam",
+  "country": "Netherlands",
+  "students": 4
+ },
+ {
+  "id": "uni-16",
+  "university": "University of Tokyo",
+  "country": "Japan",
+  "students": 1
+ },
+ {
+  "id": "uni-17",
+  "university": "Seoul National University",
+  "country": "South Korea",
+  "students": 2
+ },
+ {
+  "id": "uni-18",
+  "university": "Universitas Indonesia",
+  "country": "Indonesia",
+  "students": 3
+ },
+ {
+  "id": "uni-19",
+  "university": "Institut Teknologi Bandung",
+  "country": "Indonesia",
+  "students": 4
+ }
+]

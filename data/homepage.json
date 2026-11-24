@@ -1,0 +1,682 @@
+{
+ "seo": {
+  "title": "Cakrawala International School — Jakarta",
+  "description": "A premier Early Years–Grade 12 international school in South Jakarta. Inquiry-led learning, IB & AP pathways, and a community that cares."
+ },
+ "sections": [
+  {
+   "id": "h-hero",
+   "type": "hero",
+   "enabled": true,
+   "order": 1,
+   "slides": [
+    {
+     "kicker": {
+      "en": "Welcome to Cakrawala",
+      "id": "Selamat datang di Cakrawala"
+     },
+     "title": {
+      "en": "Learn here. Belong everywhere.",
+      "id": "Belajar di sini. Dimiliki di mana saja."
+     },
+     "text": {
+      "en": "A South Jakarta international community where curiosity is the curriculum and every child is known.",
+      "id": "Komunitas internasional Jakarta Selatan tempat rasa ingin tahu menjadi kurikulum dan setiap anak dikenal."
+     },
+     "image": "assets/images/homepage/hero-1.svg",
+     "ctaText": {
+      "en": "Discover Cakrawala",
+      "id": "Jelajahi Cakrawala"
+     },
+     "ctaUrl": "why-school/"
+    },
+    {
+     "kicker": {
+      "en": "Find your passion",
+      "id": "Temukan minatmu"
+     },
+     "title": {
+      "en": "A stage, a team, a studio for every learner.",
+      "id": "Panggung, tim, dan studio untuk setiap siswa."
+     },
+     "text": {
+      "en": "Arts, athletics, and 100+ activities help students discover what makes them come alive.",
+      "id": "Seni, olahraga, dan 100+ kegiatan membantu siswa menemukan yang membuat mereka bersemangat."
+     },
+     "image": "assets/images/homepage/hero-2.svg",
+     "ctaText": {
+      "en": "Explore activities",
+      "id": "Jelajahi kegiatan"
+     },
+     "ctaUrl": "activities/"
+    },
+    {
+     "kicker": {
+      "en": "Best for the world",
+      "id": "Terbaik untuk dunia"
+     },
+     "title": {
+      "en": "Service is how we learn to lead.",
+      "id": "Servis adalah cara kami belajar memimpin."
+     },
+     "text": {
+      "en": "From Early Years to High School, students partner with Jakarta communities to create real change.",
+      "id": "Dari Early Years hingga SMA, siswa bermitra dengan komunitas Jakarta untuk perubahan nyata."
+     },
+     "image": "assets/images/homepage/hero-3.svg",
+     "ctaText": {
+      "en": "See service learning",
+      "id": "Lihat pembelajaran servis"
+     },
+     "ctaUrl": "academics/service-learning/"
+    }
+   ]
+  },
+  {
+   "id": "h-welcome",
+   "type": "split",
+   "enabled": true,
+   "order": 2,
+   "kicker": {
+    "en": "Welcome",
+    "id": "Selamat datang"
+   },
+   "heading": {
+    "en": "More than a school — a community.",
+    "id": "Lebih dari sekolah — sebuah komunitas."
+   },
+   "body": [
+    {
+     "en": "For 75 years, Cakrawala has prepared students from across the globe to be their best and to be best for the world. We learn in Indonesia, and we learn from Indonesia.",
+     "id": "Selama 75 tahun, Cakrawala menyiapkan siswa dari seluruh dunia untuk menjadi yang terbaik dan terbaik bagi dunia. Kami belajar di Indonesia, dan kami belajar dari Indonesia."
+    }
+   ],
+   "image": "assets/images/homepage/welcome.svg",
+   "ctaText": {
+    "en": "About our school",
+    "id": "Tentang sekolah kami"
+   },
+   "ctaUrl": "about/",
+   "points": [
+    {
+     "en": "Early Years to Grade 12 on two green campuses",
+     "id": "Early Years hingga Kelas 12 di dua kampus hijau"
+    },
+    {
+     "en": "Students from 60+ nationalities",
+     "id": "Siswa dari 60+ negara"
+    },
+    {
+     "en": "IB Diploma and AP pathways in High School",
+     "id": "Jalur Diploma IB dan AP di SMA"
+    }
+   ]
+  },
+  {
+   "id": "h-know",
+   "type": "cards",
+   "enabled": true,
+   "order": 3,
+   "style": "icon",
+   "kicker": {
+    "en": "Get to know us",
+    "id": "Kenali kami"
+   },
+   "heading": {
+    "en": "Four ways into the Cakrawala story.",
+    "id": "Empat pintu menuju kisah Cakrawala."
+   },
+   "items": [
+    {
+     "icon": "heart-handshake",
+     "title": {
+      "en": "Admissions",
+      "id": "Penerimaan"
+     },
+     "text": {
+      "en": "Inquire, visit, and apply — we guide you at every step.",
+      "id": "Tanya, kunjungi, daftar — kami memandu setiap langkah."
+     },
+     "url": "admissions/"
+    },
+    {
+     "icon": "map-pin",
+     "title": {
+      "en": "Campuses",
+      "id": "Kampus"
+     },
+     "text": {
+      "en": "Two leafy South Jakarta campuses built for learning.",
+      "id": "Dua kampus hijau Jakarta Selatan yang dirancang untuk belajar."
+     },
+     "url": "about/campuses/"
+    },
+    {
+     "icon": "book-open",
+     "title": {
+      "en": "Academics",
+      "id": "Akademik"
+     },
+     "text": {
+      "en": "A continuous, inquiry-led pathway from age 3 to 18.",
+      "id": "Jalur berkelanjutan berbasis inkuiri dari usia 3 hingga 18."
+     },
+     "url": "academics/"
+    },
+    {
+     "icon": "hand-heart",
+     "title": {
+      "en": "Service",
+      "id": "Servis"
+     },
+     "text": {
+      "en": "Learning that gives back to Jakarta and beyond.",
+      "id": "Pembelajaran yang memberi kembali untuk Jakarta dan sekitarnya."
+     },
+     "url": "academics/service-learning/"
+    }
+   ]
+  },
+  {
+   "id": "h-admcta",
+   "type": "cta",
+   "enabled": true,
+   "order": 4,
+   "kicker": {
+    "en": "Admissions",
+    "id": "Penerimaan"
+   },
+   "heading": {
+    "en": "The best way to know us is to visit.",
+    "id": "Cara terbaik mengenal kami adalah berkunjung."
+   },
+   "description": {
+    "en": "Schedule a campus tour and see learning in action. Our admissions team replies within two school days.",
+    "id": "Jadwalkan tur kampus dan lihat pembelajaran langsung. Tim penerimaan kami membalas dalam dua hari sekolah."
+   },
+   "buttons": [
+    {
+     "text": {
+      "en": "Book a visit",
+      "id": "Jadwalkan kunjungan"
+     },
+     "url": "admissions/visit/",
+     "style": "gold"
+    },
+    {
+     "text": {
+      "en": "Inquire now",
+      "id": "Tanya sekarang"
+     },
+     "url": "admissions/inquire/",
+     "style": "light"
+    },
+    {
+     "text": {
+      "en": "Apply",
+      "id": "Daftar"
+     },
+     "url": "admissions/apply/",
+     "style": "light"
+    }
+   ]
+  },
+  {
+   "id": "h-campus",
+   "type": "cards",
+   "enabled": true,
+   "order": 5,
+   "kicker": {
+    "en": "Where we learn",
+    "id": "Tempat kami belajar"
+   },
+   "heading": {
+    "en": "Two campuses, one community.",
+    "id": "Dua kampus, satu komunitas."
+   },
+   "items": [
+    {
+     "image": "assets/images/campuses/pattimura.svg",
+     "title": {
+      "en": "Pattimura Campus",
+      "id": "Kampus Pattimura"
+     },
+     "text": {
+      "en": "Early Years & Elementary in Kebayoran Baru — gardens, studios, and shade trees.",
+      "id": "Early Years & SD di Kebayoran Baru — taman, studio, dan pepohonan rindang."
+     },
+     "url": "about/campuses/pattimura/"
+    },
+    {
+     "image": "assets/images/campuses/horizon.svg",
+     "title": {
+      "en": "Horizon Campus",
+      "id": "Kampus Horizon"
+     },
+     "text": {
+      "en": "Middle & High School in Cilandak — labs, courts, and a 500-seat auditorium.",
+      "id": "SMP & SMA di Cilandak — lab, lapangan, dan auditorium 500 kursi."
+     },
+     "url": "about/campuses/horizon/"
+    }
+   ]
+  },
+  {
+   "id": "h-programs",
+   "type": "cards",
+   "enabled": true,
+   "order": 6,
+   "style": "icon",
+   "kicker": {
+    "en": "Academic programs",
+    "id": "Program akademik"
+   },
+   "heading": {
+    "en": "A pathway that grows with your child.",
+    "id": "Jalur yang tumbuh bersama anak Anda."
+   },
+   "items": [
+    {
+     "icon": "shapes",
+     "title": {
+      "en": "Early Years (3–6)",
+      "id": "Early Years (3–6)"
+     },
+     "text": {
+      "en": "Play-based, inquiry-rich beginnings.",
+      "id": "Awal belajar berbasis bermain dan inkuiri."
+     },
+     "url": "academics/early-years/"
+    },
+    {
+     "icon": "pencil-ruler",
+     "title": {
+      "en": "Elementary (1–5)",
+      "id": "SD (1–5)"
+     },
+     "text": {
+      "en": "Strong foundations in literacy and numeracy.",
+      "id": "Fondasi kuat literasi dan numerasi."
+     },
+     "url": "academics/elementary/"
+    },
+    {
+     "icon": "compass",
+     "title": {
+      "en": "Middle School (6–8)",
+      "id": "SMP (6–8)"
+     },
+     "text": {
+      "en": "Explore interests; build real-world connections.",
+      "id": "Eksplorasi minat; bangun koneksi dunia nyata."
+     },
+     "url": "academics/middle-school/"
+    },
+    {
+     "icon": "graduation-cap",
+     "title": {
+      "en": "High School (9–12)",
+      "id": "SMA (9–12)"
+     },
+     "text": {
+      "en": "IB Diploma and AP — choice with support.",
+      "id": "Diploma IB dan AP — pilihan dengan dukungan."
+     },
+     "url": "academics/high-school/"
+    }
+   ]
+  },
+  {
+   "id": "h-service",
+   "type": "split",
+   "enabled": true,
+   "order": 7,
+   "reverse": true,
+   "kicker": {
+    "en": "Service learning",
+    "id": "Pembelajaran servis"
+   },
+   "heading": {
+    "en": "Best for the world, starting in Jakarta.",
+    "id": "Terbaik untuk dunia, mulai dari Jakarta."
+   },
+   "body": [
+    {
+     "en": "Service is woven into every grade. Students work alongside community partners on literacy, health, and environmental projects — and reflect on what they learn.",
+     "id": "Servis terjalin di setiap kelas. Siswa bekerja bersama mitra komunitas dalam proyek literasi, kesehatan, dan lingkungan — lalu merefleksikan pembelajaran mereka."
+    }
+   ],
+   "image": "assets/images/academics/service.svg",
+   "ctaText": {
+    "en": "Explore service learning",
+    "id": "Jelajahi pembelajaran servis"
+   },
+   "ctaUrl": "academics/service-learning/"
+  },
+  {
+   "id": "h-uni",
+   "type": "acceptances",
+   "enabled": true,
+   "order": 8,
+   "kicker": {
+    "en": "Where graduates go",
+    "id": "Ke mana lulusan pergi"
+   },
+   "heading": {
+    "en": "University acceptances across four continents.",
+    "id": "Penerimaan universitas di empat benua."
+   },
+   "description": {
+    "en": "Sample data for demonstration — manage the full list via CMS.",
+    "id": "Data contoh untuk demonstrasi — kelola daftar lengkap via CMS."
+   }
+  },
+  {
+   "id": "h-gallery",
+   "type": "gallery",
+   "enabled": true,
+   "order": 9,
+   "kicker": {
+    "en": "Campus gallery",
+    "id": "Galeri kampus"
+   },
+   "heading": {
+    "en": "A look around our learning spaces.",
+    "id": "Sekilas ruang belajar kami."
+   },
+   "images": [
+    {
+     "src": "assets/images/campuses/pattimura.svg",
+     "alt": "Pattimura Campus gardens"
+    },
+    {
+     "src": "assets/images/campuses/horizon.svg",
+     "alt": "Horizon Campus courtyard"
+    },
+    {
+     "src": "assets/images/academics/studio.svg",
+     "alt": "Cakrawala Studio workshop"
+    },
+    {
+     "src": "assets/images/activities/arts.svg",
+     "alt": "Arts wing"
+    },
+    {
+     "src": "assets/images/activities/athletics.svg",
+     "alt": "Athletics field"
+    },
+    {
+     "src": "assets/images/academics/elementary.svg",
+     "alt": "Elementary classroom"
+    }
+   ]
+  },
+  {
+   "id": "h-life",
+   "type": "tabs",
+   "enabled": true,
+   "order": 10,
+   "kicker": {
+    "en": "Life at Cakrawala",
+    "id": "Kehidupan di Cakrawala"
+   },
+   "heading": {
+    "en": "Days full of discovery.",
+    "id": "Hari-hari penuh penemuan."
+   },
+   "items": [
+    {
+     "label": {
+      "en": "Arts",
+      "id": "Seni"
+     },
+     "body": [
+      {
+       "en": "From gamelan to black-box theatre, every student can make, perform, and exhibit.",
+       "id": "Dari gamelan hingga teater black-box, setiap siswa bisa berkarya, tampil, dan berpameran."
+      }
+     ]
+    },
+    {
+     "label": {
+      "en": "Athletics",
+      "id": "Olahraga"
+     },
+     "body": [
+      {
+       "en": "Teams from U10 to varsity compete in IASAS and local leagues — fitness and fun first.",
+       "id": "Tim dari U10 hingga varsity berkompetisi di IASAS dan liga lokal — kebugaran dan kesenangan utama."
+      }
+     ]
+    },
+    {
+     "label": {
+      "en": "Activities",
+      "id": "Kegiatan"
+     },
+     "body": [
+      {
+       "en": "100+ clubs: robotics, debate, cooking, conservation, and more — student-led where possible.",
+       "id": "100+ klub: robotik, debat, memasak, konservasi, dan lainnya — dipimpin siswa bila memungkinkan."
+      }
+     ]
+    },
+    {
+     "label": {
+      "en": "Service",
+      "id": "Servis"
+     },
+     "body": [
+      {
+       "en": "Weekly community partnerships make service a habit, not an event.",
+       "id": "Kemitraan komunitas mingguan menjadikan servis kebiasaan, bukan sekadar acara."
+      }
+     ]
+    },
+    {
+     "label": {
+      "en": "Academy",
+      "id": "Akademi"
+     },
+     "body": [
+      {
+       "en": "After-school and holiday programs open our facilities to the wider community.",
+       "id": "Program setelah sekolah dan liburan membuka fasilitas kami untuk komunitas luas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h-facts",
+   "type": "stats",
+   "enabled": true,
+   "order": 11,
+   "background": "dark",
+   "kicker": {
+    "en": "Fast facts",
+    "id": "Fakta singkat"
+   },
+   "heading": {
+    "en": "Cakrawala by the numbers.",
+    "id": "Cakrawala dalam angka."
+   },
+   "items": [
+    {
+     "value": "75",
+     "label": {
+      "en": "Years of learning",
+      "id": "Tahun pembelajaran"
+     }
+    },
+    {
+     "value": "2",
+     "label": {
+      "en": "Green campuses",
+      "id": "Kampus hijau"
+     }
+    },
+    {
+     "value": "60+",
+     "label": {
+      "en": "Nationalities",
+      "id": "Kewarganegaraan"
+     }
+    },
+    {
+     "value": "100+",
+     "label": {
+      "en": "Clubs & activities",
+      "id": "Klub & kegiatan"
+     }
+    }
+   ]
+  },
+  {
+   "id": "h-student",
+   "type": "cards",
+   "enabled": true,
+   "order": 12,
+   "kicker": {
+    "en": "Student life",
+    "id": "Kehidupan siswa"
+   },
+   "heading": {
+    "en": "Room to explore, support to grow.",
+    "id": "Ruang untuk eksplorasi, dukungan untuk tumbuh."
+   },
+   "items": [
+    {
+     "icon": "palette",
+     "title": {
+      "en": "Arts",
+      "id": "Seni"
+     },
+     "text": {
+      "en": "Visual art, music, theatre, and film.",
+      "id": "Seni rupa, musik, teater, dan film."
+     },
+     "url": "arts/"
+    },
+    {
+     "icon": "trophy",
+     "title": {
+      "en": "Athletics",
+      "id": "Olahraga"
+     },
+     "text": {
+      "en": "12 sports, 40+ teams.",
+      "id": "12 olahraga, 40+ tim."
+     },
+     "url": "athletics/"
+    },
+    {
+     "icon": "puzzle",
+     "title": {
+      "en": "Activities",
+      "id": "Kegiatan"
+     },
+     "text": {
+      "en": "Clubs for every curiosity.",
+      "id": "Klub untuk setiap rasa ingin tahu."
+     },
+     "url": "activities/"
+    }
+   ]
+  },
+  {
+   "id": "h-community",
+   "type": "cards",
+   "enabled": true,
+   "order": 13,
+   "style": "icon",
+   "kicker": {
+    "en": "Community",
+    "id": "Komunitas"
+   },
+   "heading": {
+    "en": "It takes a community — and we have one.",
+    "id": "Butuh komunitas — dan kami memilikinya."
+   },
+   "items": [
+    {
+     "icon": "users",
+     "title": {
+      "en": "Alumni",
+      "id": "Alumni"
+     },
+     "text": {
+      "en": "Graduates leading in 40+ countries.",
+      "id": "Lulusan memimpin di 40+ negara."
+     },
+     "url": "community/alumni/"
+    },
+    {
+     "icon": "home",
+     "title": {
+      "en": "Parents",
+      "id": "Orang tua"
+     },
+     "text": {
+      "en": "Join the PTA and lifelong friendships.",
+      "id": "Bergabung dengan PTA dan persahabatan seumur hidup."
+     },
+     "url": "community/parent-organizations/"
+    },
+    {
+     "icon": "calendar-days",
+     "title": {
+      "en": "Events",
+      "id": "Acara"
+     },
+     "text": {
+      "en": "Celebrations, talks, and showcases.",
+      "id": "Perayaan, diskusi, dan pertunjukan."
+     },
+     "url": "community/events/"
+    },
+    {
+     "icon": "briefcase",
+     "title": {
+      "en": "Careers",
+      "id": "Karier"
+     },
+     "text": {
+      "en": "Teach and grow with us.",
+      "id": "Mengajar dan bertumbuh bersama kami."
+     },
+     "url": "about/work-at-school/"
+    }
+   ]
+  },
+  {
+   "id": "h-blog",
+   "type": "posts",
+   "enabled": true,
+   "order": 14,
+   "limit": 3,
+   "kicker": {
+    "en": "Latest from the blog",
+    "id": "Terbaru dari blog"
+   },
+   "heading": {
+    "en": "Stories from our classrooms.",
+    "id": "Cerita dari kelas kami."
+   }
+  },
+  {
+   "id": "h-testi",
+   "type": "testimonials",
+   "enabled": true,
+   "order": 15,
+   "kicker": {
+    "en": "Community voices",
+    "id": "Suara komunitas"
+   },
+   "heading": {
+    "en": "What our community says.",
+    "id": "Kata komunitas kami."
+   }
+  }
+ ]
+}

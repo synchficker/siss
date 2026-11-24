@@ -1,0 +1,50 @@
+[
+ {
+  "id": "act-robotics",
+  "name": "Robotics",
+  "category": "Academic",
+  "ages": "9–18",
+  "day": "Tue",
+  "description": "Design, build, and compete."
+ },
+ {
+  "id": "act-mun",
+  "name": "Debate & MUN",
+  "category": "Academic",
+  "ages": "11–18",
+  "day": "Wed",
+  "description": "Argue well, listen better."
+ },
+ {
+  "id": "act-conservation",
+  "name": "Conservation",
+  "category": "Service",
+  "ages": "6–18",
+  "day": "Thu",
+  "description": "Care for the planet."
+ },
+ {
+  "id": "act-cooking",
+  "name": "Cooking",
+  "category": "Creative",
+  "ages": "8–16",
+  "day": "Fri",
+  "description": "Flavors of Indonesia."
+ },
+ {
+  "id": "act-gamelan",
+  "name": "Gamelan",
+  "category": "Arts",
+  "ages": "9+",
+  "day": "Tue",
+  "description": "Indonesia's treasured ensemble."
+ },
+ {
+  "id": "act-film",
+  "name": "Film Club",
+  "category": "Arts",
+  "ages": "12–18",
+  "day": "Mon",
+  "description": "Storytelling with a camera."
+ }
+]

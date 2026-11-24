@@ -1,0 +1,162 @@
+[
+ {
+  "id": "faq-1",
+  "group": "admissions",
+  "q": {
+   "en": "When can we apply?",
+   "id": "Kapan bisa mendaftar?"
+  },
+  "a": {
+   "en": [
+    "We accept applications year-round where places allow; main entry is August. Popular grades fill early."
+   ],
+   "id": [
+    "Kami menerima pendaftaran sepanjang tahun selama ada tempat; masuk utama Agustus. Kelas populer cepat penuh."
+   ]
+  }
+ },
+ {
+  "id": "faq-2",
+  "group": "admissions",
+  "q": {
+   "en": "Is there an entrance test?",
+   "id": "Apakah ada tes masuk?"
+  },
+  "a": {
+   "en": [
+    "Age-appropriate assessments and a family conversation help us understand each learner — not to rank them."
+   ],
+   "id": [
+    "Asesmen sesuai usia dan percakapan keluarga membantu kami memahami setiap siswa — bukan untuk peringkat."
+   ]
+  }
+ },
+ {
+  "id": "faq-3",
+  "group": "admissions",
+  "q": {
+   "en": "Do you support English learners?",
+   "id": "Apakah ada dukungan bahasa Inggris?"
+  },
+  "a": {
+   "en": [
+    "Yes — ELL support is built into the program, with specialists on each campus."
+   ],
+   "id": [
+    "Ya — dukungan ELL terintegrasi, dengan spesialis di setiap kampus."
+   ]
+  }
+ },
+ {
+  "id": "faq-4",
+  "group": "admissions",
+  "q": {
+   "en": "Are scholarships available?",
+   "id": "Apakah ada beasiswa?"
+  },
+  "a": {
+   "en": [
+    "Need-aware scholarships are available through the Scholarship Fund; inquiries are confidential."
+   ],
+   "id": [
+    "Beasiswa berbasis kebutuhan tersedia melalui Dana Beasiswa; pertanyaan bersifat rahasia."
+   ]
+  }
+ },
+ {
+  "id": "faq-5",
+  "group": "admissions",
+  "q": {
+   "en": "Can we visit before applying?",
+   "id": "Bisakah berkunjung sebelum mendaftar?"
+  },
+  "a": {
+   "en": [
+    "Absolutely — book a weekday morning tour and see classes in session."
+   ],
+   "id": [
+    "Tentu — pesan tur pagi hari kerja dan lihat kelas berlangsung."
+   ]
+  }
+ },
+ {
+  "id": "faq-6",
+  "group": "admissions",
+  "q": {
+   "en": "What records are required?",
+   "id": "Dokumen apa yang diperlukan?"
+  },
+  "a": {
+   "en": [
+    "Two years of school reports, a teacher recommendation, and a passport copy."
+   ],
+   "id": [
+    "Rapor dua tahun, rekomendasi guru, dan salinan paspor."
+   ]
+  }
+ },
+ {
+  "id": "faq-7",
+  "group": "academics",
+  "q": {
+   "en": "IB or AP — how do students choose?",
+   "id": "IB atau AP — bagaimana memilih?"
+  },
+  "a": {
+   "en": [
+    "Counselors help each student build a pathway from their strengths and goals; both are offered."
+   ],
+   "id": [
+    "Konselor membantu setiap siswa membangun jalur dari kekuatan dan tujuan; keduanya tersedia."
+   ]
+  }
+ },
+ {
+  "id": "faq-8",
+  "group": "academics",
+  "q": {
+   "en": "How large are classes?",
+   "id": "Berapa ukuran kelas?"
+  },
+  "a": {
+   "en": [
+    "Typically 18–24, with smaller groups for specialized support."
+   ],
+   "id": [
+    "Umumnya 18–24, dengan kelompok lebih kecil untuk dukungan khusus."
+   ]
+  }
+ },
+ {
+  "id": "faq-9",
+  "group": "community",
+  "q": {
+   "en": "How do new families get connected?",
+   "id": "Bagaimana keluarga baru terhubung?"
+  },
+  "a": {
+   "en": [
+    "The PTA hosts coffee mornings each term and a welcome program for new families."
+   ],
+   "id": [
+    "PTA mengadakan coffee morning tiap semester dan program sambutan keluarga baru."
+   ]
+  }
+ },
+ {
+  "id": "faq-10",
+  "group": "community",
+  "q": {
+   "en": "Can the community use the facilities?",
+   "id": "Bisakah komunitas memakai fasilitas?"
+  },
+  "a": {
+   "en": [
+    "Yes — courts, pool, and auditorium are available for hire outside school hours."
+   ],
+   "id": [
+    "Ya — lapangan, kolam, dan auditorium tersedia untuk disewa di luar jam sekolah."
+   ]
+  }
+ }
+]

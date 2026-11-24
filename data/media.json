@@ -1,0 +1,324 @@
+{
+ "items": [
+  {
+   "id": "m-logo",
+   "name": "logo.svg",
+   "folder": "logo",
+   "alt": "CAKRAWALA",
+   "type": "image/svg+xml",
+   "src": "assets/images/logo/logo.svg"
+  },
+  {
+   "id": "m-hero-1",
+   "name": "hero-1.svg",
+   "folder": "homepage",
+   "alt": "Campus life — hero 1",
+   "type": "image/svg+xml",
+   "src": "assets/images/homepage/hero-1.svg"
+  },
+  {
+   "id": "m-hero-2",
+   "name": "hero-2.svg",
+   "folder": "homepage",
+   "alt": "Learning in action — hero 2",
+   "type": "image/svg+xml",
+   "src": "assets/images/homepage/hero-2.svg"
+  },
+  {
+   "id": "m-hero-3",
+   "name": "hero-3.svg",
+   "folder": "homepage",
+   "alt": "Community — hero 3",
+   "type": "image/svg+xml",
+   "src": "assets/images/homepage/hero-3.svg"
+  },
+  {
+   "id": "m-welcome",
+   "name": "welcome.svg",
+   "folder": "homepage",
+   "alt": "Welcome",
+   "type": "image/svg+xml",
+   "src": "assets/images/homepage/welcome.svg"
+  },
+  {
+   "id": "m-og",
+   "name": "og.svg",
+   "folder": "homepage",
+   "alt": "Cakrawala International School",
+   "type": "image/svg+xml",
+   "src": "assets/images/homepage/og.svg"
+  },
+  {
+   "id": "m-about",
+   "name": "about.svg",
+   "folder": "about",
+   "alt": "About",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/about.svg"
+  },
+  {
+   "id": "m-mission",
+   "name": "mission.svg",
+   "folder": "about",
+   "alt": "Mission & Vision",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/mission.svg"
+  },
+  {
+   "id": "m-leadership",
+   "name": "leadership.svg",
+   "folder": "about",
+   "alt": "Leadership",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/leadership.svg"
+  },
+  {
+   "id": "m-work",
+   "name": "work.svg",
+   "folder": "about",
+   "alt": "Work at Cakrawala",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/work.svg"
+  },
+  {
+   "id": "m-belonging",
+   "name": "belonging.svg",
+   "folder": "about",
+   "alt": "Belonging",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/belonging.svg"
+  },
+  {
+   "id": "m-anniversary",
+   "name": "anniversary.svg",
+   "folder": "about",
+   "alt": "75 Years",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/anniversary.svg"
+  },
+  {
+   "id": "m-pattimura",
+   "name": "pattimura.svg",
+   "folder": "campuses",
+   "alt": "Pattimura Campus",
+   "type": "image/svg+xml",
+   "src": "assets/images/campuses/pattimura.svg"
+  },
+  {
+   "id": "m-horizon",
+   "name": "horizon.svg",
+   "folder": "campuses",
+   "alt": "Horizon Campus",
+   "type": "image/svg+xml",
+   "src": "assets/images/campuses/horizon.svg"
+  },
+  {
+   "id": "m-admissions",
+   "name": "admissions.svg",
+   "folder": "admissions",
+   "alt": "Admissions",
+   "type": "image/svg+xml",
+   "src": "assets/images/admissions/admissions.svg"
+  },
+  {
+   "id": "m-academics",
+   "name": "academics.svg",
+   "folder": "academics",
+   "alt": "Academics",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/academics.svg"
+  },
+  {
+   "id": "m-early-years",
+   "name": "early-years.svg",
+   "folder": "academics",
+   "alt": "Early Years",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/early-years.svg"
+  },
+  {
+   "id": "m-elementary",
+   "name": "elementary.svg",
+   "folder": "academics",
+   "alt": "Elementary",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/elementary.svg"
+  },
+  {
+   "id": "m-middle-school",
+   "name": "middle-school.svg",
+   "folder": "academics",
+   "alt": "Middle School",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/middle-school.svg"
+  },
+  {
+   "id": "m-high-school",
+   "name": "high-school.svg",
+   "folder": "academics",
+   "alt": "High School",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/high-school.svg"
+  },
+  {
+   "id": "m-studio",
+   "name": "studio.svg",
+   "folder": "academics",
+   "alt": "Cakrawala Studio",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/studio.svg"
+  },
+  {
+   "id": "m-service",
+   "name": "service.svg",
+   "folder": "academics",
+   "alt": "Service Learning",
+   "type": "image/svg+xml",
+   "src": "assets/images/academics/service.svg"
+  },
+  {
+   "id": "m-arts",
+   "name": "arts.svg",
+   "folder": "activities",
+   "alt": "Arts",
+   "type": "image/svg+xml",
+   "src": "assets/images/activities/arts.svg"
+  },
+  {
+   "id": "m-athletics",
+   "name": "athletics.svg",
+   "folder": "activities",
+   "alt": "Athletics",
+   "type": "image/svg+xml",
+   "src": "assets/images/activities/athletics.svg"
+  },
+  {
+   "id": "m-activities",
+   "name": "activities.svg",
+   "folder": "activities",
+   "alt": "Activities",
+   "type": "image/svg+xml",
+   "src": "assets/images/activities/activities.svg"
+  },
+  {
+   "id": "m-academy",
+   "name": "academy.svg",
+   "folder": "activities",
+   "alt": "Cakrawala Academy",
+   "type": "image/svg+xml",
+   "src": "assets/images/activities/academy.svg"
+  },
+  {
+   "id": "m-community",
+   "name": "community.svg",
+   "folder": "community",
+   "alt": "Community",
+   "type": "image/svg+xml",
+   "src": "assets/images/community/community.svg"
+  },
+  {
+   "id": "m-events",
+   "name": "events.svg",
+   "folder": "community",
+   "alt": "Events",
+   "type": "image/svg+xml",
+   "src": "assets/images/community/events.svg"
+  },
+  {
+   "id": "m-giving",
+   "name": "giving.svg",
+   "folder": "giving",
+   "alt": "Giving",
+   "type": "image/svg+xml",
+   "src": "assets/images/giving/giving.svg"
+  },
+  {
+   "id": "m-blog-1",
+   "name": "blog-1.svg",
+   "folder": "blog",
+   "alt": "STEM foundations",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/blog-1.svg"
+  },
+  {
+   "id": "m-blog-2",
+   "name": "blog-2.svg",
+   "folder": "blog",
+   "alt": "Studio showcase",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/blog-2.svg"
+  },
+  {
+   "id": "m-blog-3",
+   "name": "blog-3.svg",
+   "folder": "blog",
+   "alt": "Service in action",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/blog-3.svg"
+  },
+  {
+   "id": "m-blog-4",
+   "name": "blog-4.svg",
+   "folder": "blog",
+   "alt": "Alumni stories",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/blog-4.svg"
+  },
+  {
+   "id": "m-author-1",
+   "name": "author-1.svg",
+   "folder": "blog",
+   "alt": "A",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/author-1.svg"
+  },
+  {
+   "id": "m-author-2",
+   "name": "author-2.svg",
+   "folder": "blog",
+   "alt": "R",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/author-2.svg"
+  },
+  {
+   "id": "m-author-3",
+   "name": "author-3.svg",
+   "folder": "blog",
+   "alt": "S",
+   "type": "image/svg+xml",
+   "src": "assets/images/blog/author-3.svg"
+  },
+  {
+   "id": "m-person-1",
+   "name": "person-1.svg",
+   "folder": "about",
+   "alt": "L",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/person-1.svg"
+  },
+  {
+   "id": "m-person-2",
+   "name": "person-2.svg",
+   "folder": "about",
+   "alt": "M",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/person-2.svg"
+  },
+  {
+   "id": "m-person-3",
+   "name": "person-3.svg",
+   "folder": "about",
+   "alt": "D",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/person-3.svg"
+  },
+  {
+   "id": "m-person-4",
+   "name": "person-4.svg",
+   "folder": "about",
+   "alt": "N",
+   "type": "image/svg+xml",
+   "src": "assets/images/about/person-4.svg"
+  }
+ ]
+}

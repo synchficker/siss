@@ -1,0 +1,44 @@
+[
+ {
+  "id": "com-pta",
+  "name": "Parent Teacher Association",
+  "type": "Organization",
+  "description": "Division-level parent groups, events, and volunteering.",
+  "url": "community/parent-organizations/"
+ },
+ {
+  "id": "com-alumni",
+  "name": "Alumni Association",
+  "type": "Organization",
+  "description": "A global network in 40+ countries.",
+  "url": "community/alumni/"
+ },
+ {
+  "id": "com-peduli",
+  "name": "Peduli",
+  "type": "Service",
+  "description": "Our service arm funding student-led projects.",
+  "url": "community/peduli/"
+ },
+ {
+  "id": "com-baca",
+  "name": "Yayasan Baca",
+  "type": "Partner",
+  "description": "Literacy partner since 2012.",
+  "url": "community/service-partners/"
+ },
+ {
+  "id": "com-sehat",
+  "name": "Sehat Bersama",
+  "type": "Partner",
+  "description": "Community health partner since 2015.",
+  "url": "community/service-partners/"
+ },
+ {
+  "id": "com-hijau",
+  "name": "Hijau Kota",
+  "type": "Partner",
+  "description": "Urban environment partner since 2018.",
+  "url": "community/service-partners/"
+ }
+]

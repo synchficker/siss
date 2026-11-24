@@ -1,0 +1,69 @@
+{
+ "siteName": "Cakrawala International School",
+ "shortName": "Cakrawala",
+ "tagline": {
+  "en": "Where horizons widen — a Jakarta learning community for the world.",
+  "id": "Tempat cakrawala meluas — komunitas belajar Jakarta untuk dunia."
+ },
+ "siteUrl": "https://your-user.github.io/cakrawala/",
+ "basePath": "auto",
+ "defaultLanguage": "en",
+ "languages": [
+  "en",
+  "id"
+ ],
+ "colors": {
+  "primary": "#0E3B33",
+  "primary2": "#1C5A4C",
+  "accent": "#C89B3C",
+  "paper": "#F7F4EE",
+  "ink": "#14201C"
+ },
+ "fonts": {
+  "display": "\"Fraunces\",Georgia,serif",
+  "body": "\"Inter\",system-ui,sans-serif"
+ },
+ "contact": {
+  "address": "Jl. Cakrawala Raya 12, Cilandak, Jakarta Selatan 12430, Indonesia",
+  "phone": "+62 21 5550 1234",
+  "email": "hello@cakrawala.sch.id",
+  "mapUrl": "https://www.openstreetmap.org/search?query=Cilandak%20Jakarta%20Selatan"
+ },
+ "socials": [
+  {
+   "name": "Instagram",
+   "icon": "instagram",
+   "url": "https://instagram.com/"
+  },
+  {
+   "name": "YouTube",
+   "icon": "youtube",
+   "url": "https://youtube.com/"
+  },
+  {
+   "name": "LinkedIn",
+   "icon": "linkedin",
+   "url": "https://linkedin.com/"
+  },
+  {
+   "name": "Facebook",
+   "icon": "facebook",
+   "url": "https://facebook.com/"
+  }
+ ],
+ "ctas": {
+  "inquire": "admissions/inquire/",
+  "apply": "admissions/apply/",
+  "visit": "admissions/visit/"
+ },
+ "footerAbout": {
+  "en": "An independent, co-educational international school in South Jakarta serving Early Years through Grade 12.",
+  "id": "Sekolah internasional independen di Jakarta Selatan untuk Early Years hingga Kelas 12."
+ },
+ "publisher": {
+  "owner": "your-user",
+  "repo": "cakrawala",
+  "branch": "main"
+ },
+ "anniversary": 75
+}

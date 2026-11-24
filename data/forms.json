@@ -1,0 +1,457 @@
+[
+ {
+  "id": "inquiry",
+  "title": {
+   "en": "Admissions inquiry",
+   "id": "Pertanyaan penerimaan"
+  },
+  "mode": "manual",
+  "email": "admissions@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Send inquiry",
+   "id": "Kirim pertanyaan"
+  },
+  "successMessage": {
+   "en": "Thank you! Our admissions team will reply within two school days.",
+   "id": "Terima kasih! Tim penerimaan kami akan membalas dalam dua hari sekolah."
+  },
+  "fields": [
+   {
+    "name": "name",
+    "label": {
+     "en": "Parent / guardian name",
+     "id": "Nama orang tua / wali"
+    },
+    "type": "text",
+    "required": true
+   },
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   },
+   {
+    "name": "phone",
+    "label": {
+     "en": "Phone",
+     "id": "Telepon"
+    },
+    "type": "tel",
+    "required": false
+   },
+   {
+    "name": "childAge",
+    "label": {
+     "en": "Child's current age",
+     "id": "Usia anak saat ini"
+    },
+    "type": "select",
+    "required": true,
+    "options": [
+     "3–5",
+     "6–10",
+     "11–13",
+     "14–17"
+    ]
+   },
+   {
+    "name": "entryYear",
+    "label": {
+     "en": "Intended entry year",
+     "id": "Rencana tahun masuk"
+    },
+    "type": "select",
+    "required": true,
+    "options": [
+     "2026–2027",
+     "2027–2028",
+     "2028–2029"
+    ]
+   },
+   {
+    "name": "message",
+    "label": {
+     "en": "Your question",
+     "id": "Pertanyaan Anda"
+    },
+    "type": "textarea",
+    "required": false
+   },
+   {
+    "name": "consent",
+    "label": {
+     "en": "I agree to be contacted about my inquiry and understand the privacy policy.",
+     "id": "Saya setuju dihubungi terkait pertanyaan saya dan memahami kebijakan privasi."
+    },
+    "type": "checkbox",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "visit",
+  "title": {
+   "en": "Book a campus visit",
+   "id": "Jadwalkan kunjungan kampus"
+  },
+  "mode": "manual",
+  "email": "admissions@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Request visit",
+   "id": "Minta kunjungan"
+  },
+  "successMessage": {
+   "en": "Visit request received — we will confirm by email.",
+   "id": "Permintaan kunjungan diterima — kami akan konfirmasi via email."
+  },
+  "fields": [
+   {
+    "name": "name",
+    "label": {
+     "en": "Name",
+     "id": "Nama"
+    },
+    "type": "text",
+    "required": true
+   },
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   },
+   {
+    "name": "phone",
+    "label": {
+     "en": "Phone",
+     "id": "Telepon"
+    },
+    "type": "tel",
+    "required": true
+   },
+   {
+    "name": "campus",
+    "label": {
+     "en": "Preferred campus",
+     "id": "Kampus pilihan"
+    },
+    "type": "select",
+    "required": true,
+    "options": [
+     {
+      "en": "Pattimura (Early Years–Elementary)",
+      "id": "Pattimura (Early Years–SD)"
+     },
+     {
+      "en": "Horizon (Middle–High School)",
+      "id": "Horizon (SMP–SMA)"
+     }
+    ]
+   },
+   {
+    "name": "date",
+    "label": {
+     "en": "Preferred date",
+     "id": "Tanggal pilihan"
+    },
+    "type": "date",
+    "required": true
+   },
+   {
+    "name": "guests",
+    "label": {
+     "en": "Number of guests",
+     "id": "Jumlah tamu"
+    },
+    "type": "select",
+    "required": false,
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4+"
+    ]
+   },
+   {
+    "name": "consent",
+    "label": {
+     "en": "I agree to be contacted about my inquiry and understand the privacy policy.",
+     "id": "Saya setuju dihubungi terkait pertanyaan saya dan memahami kebijakan privasi."
+    },
+    "type": "checkbox",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "contact",
+  "title": {
+   "en": "Contact us",
+   "id": "Hubungi kami"
+  },
+  "mode": "manual",
+  "email": "hello@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Send message",
+   "id": "Kirim pesan"
+  },
+  "successMessage": {
+   "en": "Message sent — thank you.",
+   "id": "Pesan terkirim — terima kasih."
+  },
+  "fields": [
+   {
+    "name": "name",
+    "label": {
+     "en": "Name",
+     "id": "Nama"
+    },
+    "type": "text",
+    "required": true
+   },
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   },
+   {
+    "name": "topic",
+    "label": {
+     "en": "Topic",
+     "id": "Topik"
+    },
+    "type": "select",
+    "required": true,
+    "options": [
+     {
+      "en": "Admissions",
+      "id": "Penerimaan"
+     },
+     {
+      "en": "Careers",
+      "id": "Karier"
+     },
+     {
+      "en": "Community",
+      "id": "Komunitas"
+     },
+     {
+      "en": "Other",
+      "id": "Lainnya"
+     }
+    ]
+   },
+   {
+    "name": "message",
+    "label": {
+     "en": "Message",
+     "id": "Pesan"
+    },
+    "type": "textarea",
+    "required": true
+   },
+   {
+    "name": "consent",
+    "label": {
+     "en": "I agree to be contacted about my inquiry and understand the privacy policy.",
+     "id": "Saya setuju dihubungi terkait pertanyaan saya dan memahami kebijakan privasi."
+    },
+    "type": "checkbox",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "newsletter",
+  "title": {
+   "en": "Newsletter",
+   "id": "Buletin"
+  },
+  "mode": "manual",
+  "email": "hello@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Subscribe",
+   "id": "Berlangganan"
+  },
+  "successMessage": {
+   "en": "You are subscribed. Welcome!",
+   "id": "Anda berlangganan. Selamat datang!"
+  },
+  "fields": [
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "event-registration",
+  "title": {
+   "en": "Event registration",
+   "id": "Pendaftaran acara"
+  },
+  "mode": "manual",
+  "email": "events@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Register",
+   "id": "Daftar"
+  },
+  "successMessage": {
+   "en": "Registration received — see you there!",
+   "id": "Pendaftaran diterima — sampai jumpa!"
+  },
+  "fields": [
+   {
+    "name": "name",
+    "label": {
+     "en": "Name",
+     "id": "Nama"
+    },
+    "type": "text",
+    "required": true
+   },
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   },
+   {
+    "name": "guests",
+    "label": {
+     "en": "Guests",
+     "id": "Tamu"
+    },
+    "type": "select",
+    "required": false,
+    "options": [
+     "0",
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   {
+    "name": "consent",
+    "label": {
+     "en": "I agree to be contacted about my inquiry and understand the privacy policy.",
+     "id": "Saya setuju dihubungi terkait pertanyaan saya dan memahami kebijakan privasi."
+    },
+    "type": "checkbox",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "donation-interest",
+  "title": {
+   "en": "Donation interest",
+   "id": "Minat donasi"
+  },
+  "mode": "manual",
+  "email": "giving@cakrawala.sch.id",
+  "endpoint": "",
+  "submitLabel": {
+   "en": "Express interest",
+   "id": "Sampaikan minat"
+  },
+  "successMessage": {
+   "en": "Thank you for supporting our learners.",
+   "id": "Terima kasih telah mendukung siswa kami."
+  },
+  "fields": [
+   {
+    "name": "name",
+    "label": {
+     "en": "Name",
+     "id": "Nama"
+    },
+    "type": "text",
+    "required": true
+   },
+   {
+    "name": "email",
+    "label": {
+     "en": "Email",
+     "id": "Email"
+    },
+    "type": "email",
+    "required": true
+   },
+   {
+    "name": "fund",
+    "label": {
+     "en": "Fund of interest",
+     "id": "Dana yang diminati"
+    },
+    "type": "select",
+    "required": true,
+    "options": [
+     {
+      "en": "Annual Fund",
+      "id": "Dana Tahunan"
+     },
+     {
+      "en": "Scholarship Fund",
+      "id": "Dana Beasiswa"
+     },
+     {
+      "en": "Anniversary Campaign",
+      "id": "Kampanye HUT"
+     }
+    ]
+   },
+   {
+    "name": "amount",
+    "label": {
+     "en": "Indicative amount (IDR)",
+     "id": "Perkiraan jumlah (IDR)"
+    },
+    "type": "text",
+    "required": false
+   },
+   {
+    "name": "message",
+    "label": {
+     "en": "Message",
+     "id": "Pesan"
+    },
+    "type": "textarea",
+    "required": false
+   },
+   {
+    "name": "consent",
+    "label": {
+     "en": "I agree to be contacted about my inquiry and understand the privacy policy.",
+     "id": "Saya setuju dihubungi terkait pertanyaan saya dan memahami kebijakan privasi."
+    },
+    "type": "checkbox",
+    "required": true
+   }
+  ]
+ }
+]
