@@ -1,0 +1,1 @@
+Font dimuat via Google Fonts CDN (Fraunces + Inter). Letakkan file font self-host di sini bila diperlukan.
